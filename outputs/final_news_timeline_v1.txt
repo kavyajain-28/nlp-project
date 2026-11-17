@@ -1,0 +1,388 @@
+==========================================================================================
+                  NEWS EVENT TIMELINE
+==========================================================================================
+
+DATE: 2025-12-15
+EVENT ID: 34
+EVENT: The weather office reported that the city had received 118 millimetres of rain in the twelve hours leading up to Friday morning.
+LOCATION: []
+REPORTED BY: 1 article(s)
+RELATED ARTICLES: article_03
+------------------------------------------------------------------------------------------
+
+DATE: 2025-12-15
+EVENT ID: 35
+EVENT: The weather office reported that the city had received 118 millimetres of rain in the twelve hours leading up to Friday morning.
+LOCATION: []
+REPORTED BY: 1 article(s)
+RELATED ARTICLES: article_03
+------------------------------------------------------------------------------------------
+
+DATE: 2025-12-15
+EVENT ID: 36
+EVENT: The weather office reported that the city had received 118 millimetres of rain in the twelve hours leading up to Friday morning.
+LOCATION: []
+REPORTED BY: 1 article(s)
+RELATED ARTICLES: article_03
+------------------------------------------------------------------------------------------
+
+DATE: 2026-08-08
+EVENT ID: 11
+EVENT: The weather office warned that further rainfall was expected through Saturday.
+LOCATION: []
+REPORTED BY: 1 article(s)
+RELATED ARTICLES: article_01
+------------------------------------------------------------------------------------------
+
+DATE: 2026-08-08
+EVENT ID: 12
+EVENT: The weather office warned that further rainfall was expected through Saturday.
+LOCATION: []
+REPORTED BY: 1 article(s)
+RELATED ARTICLES: article_01
+------------------------------------------------------------------------------------------
+
+DATE: 2026-08-08
+EVENT ID: 29
+EVENT: The weather office forecast more rain until Saturday evening.
+LOCATION: []
+REPORTED BY: 1 article(s)
+RELATED ARTICLES: article_02
+------------------------------------------------------------------------------------------
+
+DATE: 2026-08-08
+EVENT ID: 48
+EVENT: No deaths had been reported as of Saturday afternoon.
+LOCATION: []
+REPORTED BY: 1 article(s)
+RELATED ARTICLES: article_03
+------------------------------------------------------------------------------------------
+
+DATE: 2026-08-13
+EVENT ID: 4
+EVENT: The city weather office recorded 118 millimetres of rain in twelve hours.
+LOCATION: []
+REPORTED BY: 1 article(s)
+RELATED ARTICLES: article_01
+------------------------------------------------------------------------------------------
+
+DATE: 2026-08-13
+EVENT ID: 9
+EVENT: Officials said that 46 residents had been moved to the shelters by 10 a.m.
+LOCATION: []
+REPORTED BY: 1 article(s)
+RELATED ARTICLES: article_01
+------------------------------------------------------------------------------------------
+
+DATE: 2026-08-13
+EVENT ID: 10
+EVENT: Officials said that 46 residents had been moved to the shelters by 10 a.m.
+LOCATION: []
+REPORTED BY: 1 article(s)
+RELATED ARTICLES: article_01
+------------------------------------------------------------------------------------------
+
+DATE: 2026-08-13
+EVENT ID: 25
+EVENT: By noon, approximately 60 people were staying at the two locations.
+LOCATION: ['the two locations']
+REPORTED BY: 1 article(s)
+RELATED ARTICLES: article_02
+------------------------------------------------------------------------------------------
+
+DATE: 2026-08-13
+EVENT ID: 26
+EVENT: The district collector said that a review meeting would be held at 4 p.m. to assess the situation.
+LOCATION: []
+REPORTED BY: 1 article(s)
+RELATED ARTICLES: article_02
+------------------------------------------------------------------------------------------
+
+DATE: 2026-08-13
+EVENT ID: 27
+EVENT: The district collector said that a review meeting would be held at 4 p.m. to assess the situation.
+LOCATION: []
+REPORTED BY: 1 article(s)
+RELATED ARTICLES: article_02
+------------------------------------------------------------------------------------------
+
+DATE: 2026-08-13
+EVENT ID: 28
+EVENT: The district collector said that a review meeting would be held at 4 p.m. to assess the situation.
+LOCATION: []
+REPORTED BY: 1 article(s)
+RELATED ARTICLES: article_02
+------------------------------------------------------------------------------------------
+
+DATE: 2026-08-14
+EVENT ID: 1
+EVENT: Continuous rainfall began across Riverton late on August 13, causing several streets in the eastern part of the city to flood by early Friday morning.
+LOCATION: ['Riverton', 'the eastern part of the city']
+REPORTED BY: 1 article(s)
+RELATED ARTICLES: article_01
+------------------------------------------------------------------------------------------
+
+DATE: 2026-08-14
+EVENT ID: 2
+EVENT: Continuous rainfall began across Riverton late on August 13, causing several streets in the eastern part of the city to flood by early Friday morning.
+LOCATION: ['Riverton', 'the eastern part of the city']
+REPORTED BY: 1 article(s)
+RELATED ARTICLES: article_01
+------------------------------------------------------------------------------------------
+
+DATE: 2026-08-14
+EVENT ID: 3
+EVENT: Continuous rainfall began across Riverton late on August 13, causing several streets in the eastern part of the city to flood by early Friday morning.
+LOCATION: ['Riverton', 'the eastern part of the city']
+REPORTED BY: 1 article(s)
+RELATED ARTICLES: article_01
+------------------------------------------------------------------------------------------
+
+DATE: 2026-08-14
+EVENT ID: 5
+EVENT: Emergency services received their first major flooding calls at approximately 5:30 a.m. on August 14.
+LOCATION: []
+REPORTED BY: 1 article(s)
+RELATED ARTICLES: article_01
+------------------------------------------------------------------------------------------
+
+DATE: 2026-08-14
+EVENT ID: 6
+EVENT: Water entered ground-floor homes in the Riverside neighbourhood, and traffic was diverted from the Old Bridge.
+LOCATION: ['the Old Bridge', 'the Riverside neighbourhood']
+REPORTED BY: 1 article(s)
+RELATED ARTICLES: article_01
+------------------------------------------------------------------------------------------
+
+DATE: 2026-08-14
+EVENT ID: 7
+EVENT: Water entered ground-floor homes in the Riverside neighbourhood, and traffic was diverted from the Old Bridge.
+LOCATION: ['the Old Bridge', 'the Riverside neighbourhood']
+REPORTED BY: 1 article(s)
+RELATED ARTICLES: article_01
+------------------------------------------------------------------------------------------
+
+DATE: 2026-08-14
+EVENT ID: 8
+EVENT: The municipal corporation opened two temporary shelters at Central High School and the Riverside Community Hall.
+LOCATION: ['Central High School and the Riverside Community Hall', 'the Riverside Community Hall'], ['Central High School and Riverside Community Hall', 'Riverside Community Hall']
+REPORTED BY: 3 article(s)
+RELATED ARTICLES: article_01, article_02, article_03
+------------------------------------------------------------------------------------------
+
+DATE: 2026-08-14
+EVENT ID: 13
+EVENT: Residents were advised to avoid underpasses and roads near the river.
+LOCATION: ['the river']
+REPORTED BY: 1 article(s)
+RELATED ARTICLES: article_01
+------------------------------------------------------------------------------------------
+
+DATE: 2026-08-14
+EVENT ID: 14
+EVENT: Residents were advised to avoid underpasses and roads near the river.
+LOCATION: ['the river']
+REPORTED BY: 1 article(s)
+RELATED ARTICLES: article_01
+------------------------------------------------------------------------------------------
+
+DATE: 2026-08-14
+EVENT ID: 15
+EVENT: Heavy rainfall continued in Riverton on Friday, August 14, leading authorities to close all municipal schools for the day.
+LOCATION: ['Riverton']
+REPORTED BY: 1 article(s)
+RELATED ARTICLES: article_02
+------------------------------------------------------------------------------------------
+
+DATE: 2026-08-14
+EVENT ID: 16
+EVENT: Heavy rainfall continued in Riverton on Friday, August 14, leading authorities to close all municipal schools for the day.
+LOCATION: ['Riverton']
+REPORTED BY: 1 article(s)
+RELATED ARTICLES: article_02
+------------------------------------------------------------------------------------------
+
+DATE: 2026-08-14
+EVENT ID: 17
+EVENT: Heavy rainfall continued in Riverton on Friday, August 14, leading authorities to close all municipal schools for the day.
+LOCATION: ['Riverton']
+REPORTED BY: 1 article(s)
+RELATED ARTICLES: article_02
+------------------------------------------------------------------------------------------
+
+DATE: 2026-08-14
+EVENT ID: 18
+EVENT: The decision was announced at 7:15 a.m. after water levels in the Riverton River rose sharply overnight.
+LOCATION: ['Riverton River', 'the Riverton River']
+REPORTED BY: 1 article(s)
+RELATED ARTICLES: article_02
+------------------------------------------------------------------------------------------
+
+DATE: 2026-08-14
+EVENT ID: 19
+EVENT: The decision was announced at 7:15 a.m. after water levels in the Riverton River rose sharply overnight.
+LOCATION: ['Riverton River', 'the Riverton River']
+REPORTED BY: 1 article(s)
+RELATED ARTICLES: article_02
+------------------------------------------------------------------------------------------
+
+DATE: 2026-08-14
+EVENT ID: 20
+EVENT: The Old Bridge was closed to vehicles at around 6 a.m. as a precaution.
+LOCATION: []
+REPORTED BY: 1 article(s)
+RELATED ARTICLES: article_02
+------------------------------------------------------------------------------------------
+
+DATE: 2026-08-14
+EVENT ID: 21
+EVENT: Police redirected traffic toward the North Bypass, while emergency teams helped residents leave low-lying homes in Riverside.
+LOCATION: ['Riverside', 'the North Bypass']
+REPORTED BY: 1 article(s)
+RELATED ARTICLES: article_02
+------------------------------------------------------------------------------------------
+
+DATE: 2026-08-14
+EVENT ID: 22
+EVENT: Police redirected traffic toward the North Bypass, while emergency teams helped residents leave low-lying homes in Riverside.
+LOCATION: ['Riverside', 'the North Bypass']
+REPORTED BY: 1 article(s)
+RELATED ARTICLES: article_02
+------------------------------------------------------------------------------------------
+
+DATE: 2026-08-14
+EVENT ID: 23
+EVENT: Police redirected traffic toward the North Bypass, while emergency teams helped residents leave low-lying homes in Riverside.
+LOCATION: ['Riverside', 'the North Bypass']
+REPORTED BY: 1 article(s)
+RELATED ARTICLES: article_02
+------------------------------------------------------------------------------------------
+
+DATE: 2026-08-14
+EVENT ID: 24
+EVENT: Police redirected traffic toward the North Bypass, while emergency teams helped residents leave low-lying homes in Riverside.
+LOCATION: ['Riverside', 'the North Bypass']
+REPORTED BY: 1 article(s)
+RELATED ARTICLES: article_02
+------------------------------------------------------------------------------------------
+
+DATE: 2026-08-14
+EVENT ID: 39
+EVENT: Power supply, which had been suspended in parts of Riverside as a safety measure, was restored to most streets by 11 a.m.
+LOCATION: ['parts of Riverside']
+REPORTED BY: 1 article(s)
+RELATED ARTICLES: article_03
+------------------------------------------------------------------------------------------
+
+DATE: 2026-08-14
+EVENT ID: 40
+EVENT: Power supply, which had been suspended in parts of Riverside as a safety measure, was restored to most streets by 11 a.m.
+LOCATION: ['parts of Riverside']
+REPORTED BY: 1 article(s)
+RELATED ARTICLES: article_03
+------------------------------------------------------------------------------------------
+
+DATE: 2026-08-15
+EVENT ID: 30
+EVENT: Rainfall eased in Riverton on Saturday, August 15, but several neighbourhoods continued to deal with flooding caused by the previous day’s downpour.
+LOCATION: ['Riverton']
+REPORTED BY: 1 article(s)
+RELATED ARTICLES: article_03
+------------------------------------------------------------------------------------------
+
+DATE: 2026-08-15
+EVENT ID: 31
+EVENT: Rainfall eased in Riverton on Saturday, August 15, but several neighbourhoods continued to deal with flooding caused by the previous day’s downpour.
+LOCATION: ['Riverton']
+REPORTED BY: 1 article(s)
+RELATED ARTICLES: article_03
+------------------------------------------------------------------------------------------
+
+DATE: 2026-08-15
+EVENT ID: 32
+EVENT: Rainfall eased in Riverton on Saturday, August 15, but several neighbourhoods continued to deal with flooding caused by the previous day’s downpour.
+LOCATION: ['Riverton']
+REPORTED BY: 1 article(s)
+RELATED ARTICLES: article_03
+------------------------------------------------------------------------------------------
+
+DATE: 2026-08-15
+EVENT ID: 33
+EVENT: Rainfall eased in Riverton on Saturday, August 15, but several neighbourhoods continued to deal with flooding caused by the previous day’s downpour.
+LOCATION: ['Riverton']
+REPORTED BY: 1 article(s)
+RELATED ARTICLES: article_03
+------------------------------------------------------------------------------------------
+
+DATE: 2026-08-15
+EVENT ID: 37
+EVENT: Officials began distributing drinking water and food packets at both sites.
+LOCATION: ['both sites']
+REPORTED BY: 1 article(s)
+RELATED ARTICLES: article_03
+------------------------------------------------------------------------------------------
+
+DATE: 2026-08-15
+EVENT ID: 38
+EVENT: Officials began distributing drinking water and food packets at both sites.
+LOCATION: ['both sites']
+REPORTED BY: 1 article(s)
+RELATED ARTICLES: article_03
+------------------------------------------------------------------------------------------
+
+DATE: 2026-08-15
+EVENT ID: 41
+EVENT: Repair crews continued to inspect damaged electrical equipment.
+LOCATION: []
+REPORTED BY: 1 article(s)
+RELATED ARTICLES: article_03
+------------------------------------------------------------------------------------------
+
+DATE: 2026-08-15
+EVENT ID: 42
+EVENT: Repair crews continued to inspect damaged electrical equipment.
+LOCATION: []
+REPORTED BY: 1 article(s)
+RELATED ARTICLES: article_03
+------------------------------------------------------------------------------------------
+
+DATE: 2026-08-15
+EVENT ID: 43
+EVENT: The Old Bridge remained closed while engineers checked its structural safety.
+LOCATION: []
+REPORTED BY: 1 article(s)
+RELATED ARTICLES: article_03
+------------------------------------------------------------------------------------------
+
+DATE: 2026-08-15
+EVENT ID: 44
+EVENT: The Old Bridge remained closed while engineers checked its structural safety.
+LOCATION: []
+REPORTED BY: 1 article(s)
+RELATED ARTICLES: article_03
+------------------------------------------------------------------------------------------
+
+DATE: 2026-08-15
+EVENT ID: 45
+EVENT: The district collector said that a decision on reopening the bridge would be made after the inspection.
+LOCATION: []
+REPORTED BY: 1 article(s)
+RELATED ARTICLES: article_03
+------------------------------------------------------------------------------------------
+
+DATE: 2026-08-15
+EVENT ID: 46
+EVENT: The district collector said that a decision on reopening the bridge would be made after the inspection.
+LOCATION: []
+REPORTED BY: 1 article(s)
+RELATED ARTICLES: article_03
+------------------------------------------------------------------------------------------
+
+DATE: 2026-08-15
+EVENT ID: 47
+EVENT: The district collector said that a decision on reopening the bridge would be made after the inspection.
+LOCATION: []
+REPORTED BY: 1 article(s)
+RELATED ARTICLES: article_03
+------------------------------------------------------------------------------------------
+

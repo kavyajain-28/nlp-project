@@ -1,0 +1,1415 @@
+==========================================================================================
+                  NEWS EVENT TIMELINE
+==========================================================================================
+136 events from 18 articles
+
+##########################################################################################
+# Sunday, 09 August 2026
+##########################################################################################
+
+DATE: 2026-08-09 (Sunday)
+TIME: evening
+EVENT ID: 71
+EVENT: Parents were asked to wait for an official announcement on Sunday evening.
+LOCATION: Not mentioned
+REPORTED BY: 1 article(s)
+SOURCES: article_11 (Riverton Evening Post)
+DATE BASIS: weekday stated in the article, resolved with the publication date
+------------------------------------------------------------------------------------------
+
+DATE: 2026-08-09 (Sunday)
+EVENT ID: 72
+EVENT: Teachers have been asked to inspect classrooms on Sunday.
+LOCATION: Not mentioned
+REPORTED BY: 1 article(s)
+SOURCES: article_11 (Riverton Evening Post)
+DATE BASIS: weekday stated in the article, resolved with the publication date
+------------------------------------------------------------------------------------------
+
+
+##########################################################################################
+# Monday, 10 August 2026
+##########################################################################################
+
+DATE: 2026-08-10 (Monday)
+EVENT ID: 67
+EVENT: Municipal schools in Riverton are likely to reopen on Monday, the education department said.
+LOCATION: Riverton
+REPORTED BY: 1 article(s)
+SOURCES: article_11 (Riverton Evening Post)
+DATE BASIS: weekday stated in the article, resolved with the publication date
+------------------------------------------------------------------------------------------
+
+
+##########################################################################################
+# Thursday, 13 August 2026
+##########################################################################################
+
+DATE: 2026-08-13 (Thursday)
+TIME: late
+EVENT ID: 39
+EVENT: Continuous rainfall began across Riverton late on August 13.
+LOCATION: Riverton
+REPORTED BY: 3 article(s)
+SOURCES: article_06 (Regional Weather Review), article_01 (The Riverton Herald), article_16 (Regional Business Review)
+   - article_06: Continuous rainfall began late on August 13
+   - article_01: Continuous rainfall began across Riverton late on August 13
+   - article_16: Continuous rainfall began across Riverton late on August 13
+DATE BASIS: date stated in the article
+------------------------------------------------------------------------------------------
+
+
+##########################################################################################
+# Friday, 14 August 2026
+##########################################################################################
+
+DATE: 2026-08-14 (Friday)
+EVENT ID: 9
+EVENT: Authorities closed all municipal schools in Riverton on Friday, August 14, because of the flooding.
+LOCATION: Riverton
+REPORTED BY: 4 article(s)
+SOURCES: article_02 (National Daily News), article_18 (National Daily News), article_11 (Riverton Evening Post), article_07 (The Riverton Herald)
+   - article_02: Authorities closed all municipal schools for the day
+   - article_18: Authorities closed all municipal schools for the day
+   - article_11: Authorities closed all municipal schools for the day
+   - article_07: Authorities closed all municipal schools in Riverton on Friday, August 14, because of the flooding
+DATE BASIS: date stated in the article
+------------------------------------------------------------------------------------------
+
+DATE: 2026-08-14 (Friday)
+EVENT ID: 44
+EVENT: Senior officials from the municipal corporation, the police and the weather office were asked to attend.
+LOCATION: municipal corporation
+REPORTED BY: 2 article(s)
+SOURCES: article_07 (The Riverton Herald), article_08 (National Daily News)
+   - article_07: Senior officials from the municipal corporation, the police and the weather office were asked to attend
+   - article_08: Officials from the municipal corporation, police and weather office attended
+DATE BASIS: no date in the text - publication date used
+------------------------------------------------------------------------------------------
+
+DATE: 2026-08-14 (Friday)
+EVENT ID: 45
+EVENT: Teams were also checking pumping stations in the eastern part of the city.
+LOCATION: eastern part of the city
+REPORTED BY: 1 article(s)
+SOURCES: article_07 (The Riverton Herald)
+DATE BASIS: no date in the text - publication date used
+------------------------------------------------------------------------------------------
+
+DATE: 2026-08-14 (Friday)
+EVENT ID: 46
+EVENT: Private schools were asked to follow the closure order.
+LOCATION: Not mentioned
+REPORTED BY: 1 article(s)
+SOURCES: article_07 (The Riverton Herald)
+DATE BASIS: no date in the text - publication date used
+------------------------------------------------------------------------------------------
+
+DATE: 2026-08-14 (Friday)
+EVENT ID: 47
+EVENT: Exams scheduled for Friday would be rescheduled.
+STATED BY: The education department
+LOCATION: Not mentioned
+REPORTED BY: 1 article(s)
+SOURCES: article_07 (The Riverton Herald)
+DATE BASIS: weekday stated in the article, resolved with the publication date
+------------------------------------------------------------------------------------------
+
+DATE: 2026-08-14 (Friday)
+EVENT ID: 66
+EVENT: Riverton were closed on Friday.
+LOCATION: Not mentioned
+REPORTED BY: 1 article(s)
+SOURCES: article_11 (Riverton Evening Post)
+DATE BASIS: weekday stated in the article, resolved with the publication date
+------------------------------------------------------------------------------------------
+
+DATE: 2026-08-14 (Friday)
+EVENT ID: 103
+EVENT: Medical teams ordered at the Friday review meeting.
+LOCATION: Not mentioned
+REPORTED BY: 1 article(s)
+SOURCES: article_15 (The Riverton Herald)
+DATE BASIS: weekday stated in the article, resolved with the publication date
+------------------------------------------------------------------------------------------
+
+DATE: 2026-08-14 (Friday)
+EVENT ID: 40
+EVENT: A slow-moving system over the coast was feeding the downpour.
+STATED BY: Forecasters
+LOCATION: Not mentioned
+REPORTED BY: 1 article(s)
+SOURCES: article_06 (Regional Weather Review)
+DATE BASIS: no date in the text - publication date used
+------------------------------------------------------------------------------------------
+
+DATE: 2026-08-14 (Friday)
+EVENT ID: 41
+EVENT: Farmers on the outskirts were asked to delay harvesting.
+LOCATION: Not mentioned
+REPORTED BY: 1 article(s)
+SOURCES: article_06 (Regional Weather Review)
+DATE BASIS: no date in the text - publication date used
+------------------------------------------------------------------------------------------
+
+DATE: 2026-08-14 (Friday)
+TIME: overnight
+EVENT ID: 11
+EVENT: Water in the Riverton River had risen sharply overnight and was close to the bridge deck.
+LOCATION: Riverton River
+REPORTED BY: 3 article(s)
+SOURCES: article_02 (National Daily News), article_07 (The Riverton Herald), article_05 (Metro Traffic Bulletin)
+   - article_02: Water levels in the Riverton River rose sharply overnight
+   - article_07: Water levels in the Riverton River rose sharply overnight
+   - article_05: Water in the Riverton River had risen sharply overnight and was close to the bridge deck
+DATE BASIS: time stated, day taken from the publication date
+------------------------------------------------------------------------------------------
+
+DATE: 2026-08-14 (Friday)
+EVENT ID: 31
+EVENT: The North Bypass saw heavy congestion through the morning.
+LOCATION: Not mentioned
+REPORTED BY: 1 article(s)
+SOURCES: article_05 (Metro Traffic Bulletin)
+DATE BASIS: no date in the text - publication date used
+------------------------------------------------------------------------------------------
+
+DATE: 2026-08-14 (Friday)
+EVENT ID: 32
+EVENT: Buses on three city routes were rerouted.
+LOCATION: Not mentioned
+REPORTED BY: 1 article(s)
+SOURCES: article_05 (Metro Traffic Bulletin)
+DATE BASIS: no date in the text - publication date used
+------------------------------------------------------------------------------------------
+
+DATE: 2026-08-14 (Friday)
+EVENT ID: 33
+EVENT: Buses on three city routes cancelled.
+LOCATION: Not mentioned
+REPORTED BY: 1 article(s)
+SOURCES: article_05 (Metro Traffic Bulletin)
+DATE BASIS: no date in the text - publication date used
+------------------------------------------------------------------------------------------
+
+DATE: 2026-08-14 (Friday)
+TIME: overnight
+EVENT ID: 42
+EVENT: The Riverton River crossed its warning mark overnight, according to the irrigation department.
+LOCATION: Not mentioned
+REPORTED BY: 1 article(s)
+SOURCES: article_06 (Regional Weather Review)
+DATE BASIS: time stated, day taken from the publication date
+------------------------------------------------------------------------------------------
+
+DATE: 2026-08-14 (Friday)
+EVENT ID: 43
+EVENT: Levels would be checked every two hours.
+STATED BY: Officials
+LOCATION: Not mentioned
+REPORTED BY: 1 article(s)
+SOURCES: article_06 (Regional Weather Review)
+DATE BASIS: no date in the text - publication date used
+------------------------------------------------------------------------------------------
+
+DATE: 2026-08-14 (Friday)
+TIME: 5:30 a.m.
+EVENT ID: 3
+EVENT: Emergency services received their first major flooding calls at approximately 5:30 a.m. on August 14.
+LOCATION: Not mentioned
+REPORTED BY: 1 article(s)
+SOURCES: article_01 (The Riverton Herald)
+DATE BASIS: date stated in the article
+------------------------------------------------------------------------------------------
+
+DATE: 2026-08-14 (Friday)
+EVENT ID: 5
+EVENT: Traffic was diverted from the Old Bridge.
+LOCATION: Old Bridge
+REPORTED BY: 1 article(s)
+SOURCES: article_01 (The Riverton Herald)
+DATE BASIS: no date in the text - publication date used
+------------------------------------------------------------------------------------------
+
+DATE: 2026-08-14 (Friday)
+EVENT ID: 6
+EVENT: The municipal corporation opened two temporary shelters at Central High School and the Riverside Community Hall.
+STATED BY: The municipal corporation
+LOCATION: Central High School, Riverside Community Hall
+REPORTED BY: 4 article(s)
+SOURCES: article_01 (The Riverton Herald), article_04 (Riverton Evening Post), article_02 (National Daily News), article_07 (The Riverton Herald)
+   - article_01: The municipal corporation opened two temporary shelters at Central High School and the Riverside Community Hall
+   - article_04: The municipal corporation opened two temporary shelters at Central High School and the Riverside Community Hall
+   - article_02: Temporary shelters had been set up at Central High School and Riverside Community Hall
+   - article_07: Temporary shelters had been set up at Central High School and Riverside Community Hall
+DATE BASIS: no date in the text - publication date used
+------------------------------------------------------------------------------------------
+
+DATE: 2026-08-14 (Friday)
+TIME: dawn
+EVENT ID: 13
+EVENT: Emergency teams helped residents leave low-lying homes in Riverside.
+LOCATION: Riverside
+REPORTED BY: 2 article(s)
+SOURCES: article_02 (National Daily News), article_04 (Riverton Evening Post)
+   - article_02: Emergency teams helped residents leave low-lying homes in Riverside
+   - article_04: Emergency teams helped families leave low-lying streets before dawn
+DATE BASIS: no date in the text - publication date used
+------------------------------------------------------------------------------------------
+
+DATE: 2026-08-14 (Friday)
+EVENT ID: 30
+EVENT: The weather office forecast more rain until Saturday evening.
+LOCATION: Not mentioned
+COVERS PERIOD UNTIL: 2026-08-15 (Saturday)
+REPORTED BY: 5 article(s)
+SOURCES: article_04 (Riverton Evening Post), article_01 (The Riverton Herald), article_06 (Regional Weather Review), article_02 (National Daily News), article_08 (National Daily News)
+   - article_04: The weather office said more rain was likely through Saturday
+   - article_01: The weather office warned that further rainfall was expected through Saturday
+   - article_06: The weather office warned that further rainfall was expected through Saturday
+   - article_02: The weather office forecast more rain until Saturday evening
+   - article_08: The weather office forecast more rain until Saturday evening
+DATE BASIS: no date in the text - publication date used
+------------------------------------------------------------------------------------------
+
+DATE: 2026-08-14 (Friday)
+TIME: early morning
+EVENT ID: 1
+EVENT: Several streets in the eastern part of the city flooded by early Friday morning.
+LOCATION: eastern part of the city
+REPORTED BY: 2 article(s)
+SOURCES: article_01 (The Riverton Herald), article_16 (Regional Business Review)
+   - article_01: Several streets in the eastern part of the city flooded by early Friday morning
+   - article_16: Several streets in the eastern part of the city flooded by early Friday morning
+DATE BASIS: weekday stated in the article, resolved with the publication date
+------------------------------------------------------------------------------------------
+
+DATE: 2026-08-14 (Friday)
+TIME: 6 a.m.
+EVENT ID: 23
+EVENT: The Old Bridge was closed to vehicles at around 6 a.m. as a precaution.
+STATED BY: traffic police
+LOCATION: Not mentioned
+REPORTED BY: 4 article(s)
+SOURCES: article_03 (City News Network), article_10 (The Riverton Herald), article_02 (National Daily News), article_05 (Metro Traffic Bulletin)
+   - article_03: The Old Bridge remained closed
+   - article_10: The Old Bridge remained closed
+   - article_02: The Old Bridge was closed to vehicles at around 6 a.m. as a precaution
+   - article_05: The Old Bridge was closed to vehicles at around 6 a.m. as a precaution
+DATE BASIS: time stated, day taken from the publication date
+------------------------------------------------------------------------------------------
+
+DATE: 2026-08-14 (Friday)
+EVENT ID: 12
+EVENT: Police redirected traffic toward the North Bypass.
+LOCATION: North Bypass
+REPORTED BY: 3 article(s)
+SOURCES: article_02 (National Daily News), article_05 (Metro Traffic Bulletin), article_10 (The Riverton Herald)
+   - article_02: Police redirected traffic toward the North Bypass
+   - article_05: Police redirected traffic toward the North Bypass
+   - article_10: Traffic continued to use the North Bypass
+DATE BASIS: no date in the text - publication date used
+------------------------------------------------------------------------------------------
+
+DATE: 2026-08-14 (Friday)
+TIME: 7:15 a.m.
+EVENT ID: 10
+EVENT: The decision was announced at 7:15 a.m.
+LOCATION: Not mentioned
+REPORTED BY: 2 article(s)
+SOURCES: article_02 (National Daily News), article_07 (The Riverton Herald)
+   - article_02: The decision was announced at 7:15 a.m.
+   - article_07: The decision was announced at 7:15 a.m.
+DATE BASIS: time stated, day taken from the publication date
+------------------------------------------------------------------------------------------
+
+DATE: 2026-08-14 (Friday)
+TIME: morning
+EVENT ID: 8
+EVENT: Heavy rainfall continued in Riverton on Friday, August 14.
+LOCATION: Riverton
+REPORTED BY: 4 article(s)
+SOURCES: article_02 (National Daily News), article_11 (Riverton Evening Post), article_18 (National Daily News), article_06 (Regional Weather Review)
+   - article_02: Heavy rainfall continued in Riverton on Friday, August 14
+   - article_11: Heavy rainfall continued in Riverton on Friday, August 14
+   - article_18: Heavy rainfall continued in Riverton on Friday, August 14
+   - article_06: Continuous rainfall continued into Friday morning
+DATE BASIS: date stated in the article
+------------------------------------------------------------------------------------------
+
+DATE: 2026-08-14 (Friday)
+TIME: morning
+EVENT ID: 2
+EVENT: The city had received 118 millimetres of rain in the twelve hours leading up to Friday morning.
+STATED BY: The weather office
+LOCATION: Riverton
+REPORTED BY: 3 article(s)
+SOURCES: article_01 (The Riverton Herald), article_06 (Regional Weather Review), article_03 (City News Network)
+   - article_01: The city weather office recorded 118 millimetres of rain in twelve hours
+   - article_06: The city weather office recorded 118 millimetres of rain in twelve hours, the highest twelve-hour total in Riverton this monsoon
+   - article_03: The city had received 118 millimetres of rain in the twelve hours leading up to Friday morning
+DATE BASIS: weekday stated in the article, resolved with the publication date
+------------------------------------------------------------------------------------------
+
+DATE: 2026-08-14 (Friday)
+TIME: morning
+EVENT ID: 4
+EVENT: Floodwater entered ground-floor homes in the Riverside neighbourhood on Friday morning after continuous rainfall overnight.
+LOCATION: Riverside neighbourhood
+REPORTED BY: 2 article(s)
+SOURCES: article_01 (The Riverton Herald), article_04 (Riverton Evening Post)
+   - article_01: Water entered ground-floor homes in the Riverside neighbourhood
+   - article_04: Floodwater entered ground-floor homes in the Riverside neighbourhood on Friday morning after continuous rainfall overnight
+DATE BASIS: weekday stated in the article, resolved with the publication date
+------------------------------------------------------------------------------------------
+
+DATE: 2026-08-14 (Friday)
+TIME: 10 a.m.
+EVENT ID: 7
+EVENT: 46 residents had been moved to the shelters by 10 a.m. Volunteers from nearby wards.
+STATED BY: Officials
+LOCATION: nearby wards
+REPORTED BY: 2 article(s)
+SOURCES: article_01 (The Riverton Herald), article_04 (Riverton Evening Post)
+   - article_01: 46 residents had been moved to the shelters by 10 a.m.
+   - article_04: 46 residents had been moved to the shelters by 10 a.m. Volunteers from nearby wards
+DATE BASIS: time stated, day taken from the publication date
+------------------------------------------------------------------------------------------
+
+DATE: 2026-08-14 (Friday)
+EVENT ID: 27
+EVENT: 46 residents brought blankets, mats.
+LOCATION: Not mentioned
+REPORTED BY: 1 article(s)
+SOURCES: article_04 (Riverton Evening Post)
+DATE BASIS: no date in the text - publication date used
+------------------------------------------------------------------------------------------
+
+DATE: 2026-08-14 (Friday)
+EVENT ID: 28
+EVENT: Cooked meals to both locations.
+LOCATION: Not mentioned
+REPORTED BY: 1 article(s)
+SOURCES: article_04 (Riverton Evening Post)
+DATE BASIS: no date in the text - publication date used
+------------------------------------------------------------------------------------------
+
+DATE: 2026-08-14 (Friday)
+EVENT ID: 34
+EVENT: Police advised residents to stay away from the river bank.
+LOCATION: river bank
+REPORTED BY: 4 article(s)
+SOURCES: article_05 (Metro Traffic Bulletin), article_01 (The Riverton Herald), article_06 (Regional Weather Review), article_04 (Riverton Evening Post)
+   - article_05: Commuters were advised to avoid underpasses and roads near the river
+   - article_01: Residents were advised to avoid underpasses and roads near the river
+   - article_06: Residents were advised to avoid underpasses and roads near the river
+   - article_04: Police advised residents to stay away from the river bank
+DATE BASIS: no date in the text - publication date used
+------------------------------------------------------------------------------------------
+
+DATE: 2026-08-14 (Friday)
+EVENT ID: 29
+EVENT: Police flooded underpasses.
+LOCATION: Not mentioned
+REPORTED BY: 1 article(s)
+SOURCES: article_04 (Riverton Evening Post)
+DATE BASIS: no date in the text - publication date used
+------------------------------------------------------------------------------------------
+
+DATE: 2026-08-14 (Friday)
+TIME: noon
+EVENT ID: 35
+EVENT: Several low-lying junctions in Riverside remained under water by noon.
+LOCATION: Riverside
+REPORTED BY: 1 article(s)
+SOURCES: article_05 (Metro Traffic Bulletin)
+DATE BASIS: time stated, day taken from the publication date
+------------------------------------------------------------------------------------------
+
+DATE: 2026-08-14 (Friday)
+EVENT ID: 36
+EVENT: The bridge would stay closed.
+STATED BY: Traffic officials
+LOCATION: Not mentioned
+REPORTED BY: 1 article(s)
+SOURCES: article_05 (Metro Traffic Bulletin)
+DATE BASIS: no date in the text - publication date used
+------------------------------------------------------------------------------------------
+
+DATE: 2026-08-14 (Friday)
+EVENT ID: 37
+EVENT: Engineers declared it safe.
+LOCATION: Not mentioned
+REPORTED BY: 1 article(s)
+SOURCES: article_05 (Metro Traffic Bulletin)
+DATE BASIS: no date in the text - publication date used
+------------------------------------------------------------------------------------------
+
+DATE: 2026-08-14 (Friday)
+TIME: noon
+EVENT ID: 14
+EVENT: Approximately 60 people had stayed at the two shelters on Friday.
+STATED BY: Officials
+LOCATION: two shelters
+REPORTED BY: 3 article(s)
+SOURCES: article_02 (National Daily News), article_04 (Riverton Evening Post), article_08 (National Daily News)
+   - article_02: By noon, approximately 60 people were staying at the two locations
+   - article_04: By noon, approximately 60 people were staying at the two locations
+   - article_08: Approximately 60 people had stayed at the two shelters on Friday
+DATE BASIS: weekday stated in the article, resolved with the publication date
+------------------------------------------------------------------------------------------
+
+DATE: 2026-08-14 (Friday)
+TIME: afternoon
+EVENT ID: 38
+EVENT: An update is expected after the review meeting on Friday afternoon.
+LOCATION: Not mentioned
+REPORTED BY: 1 article(s)
+SOURCES: article_05 (Metro Traffic Bulletin)
+DATE BASIS: weekday stated in the article, resolved with the publication date
+------------------------------------------------------------------------------------------
+
+DATE: 2026-08-14 (Friday)
+TIME: 4 p.m.
+EVENT ID: 15
+EVENT: The district collector held a review meeting on Friday at 4 p.m. to assess the flood situation in Riverton.
+STATED BY: The district collector
+LOCATION: Riverton
+REPORTED BY: 3 article(s)
+SOURCES: article_02 (National Daily News), article_07 (The Riverton Herald), article_08 (National Daily News)
+   - article_02: A review meeting would be held at 4 p.m. to assess the situation
+   - article_07: A review meeting would be held at 4 p.m. to assess the situation
+   - article_08: The district collector held a review meeting on Friday at 4 p.m. to assess the flood situation in Riverton
+DATE BASIS: weekday stated in the article, resolved with the publication date
+------------------------------------------------------------------------------------------
+
+
+##########################################################################################
+# Saturday, 15 August 2026
+##########################################################################################
+
+DATE: 2026-08-15 (Saturday)
+EVENT ID: 48
+EVENT: The meeting directed the municipal corporation to distribute drinking water and food packets at all shelters.
+LOCATION: shelters
+REPORTED BY: 1 article(s)
+SOURCES: article_08 (National Daily News)
+DATE BASIS: no date in the text - publication date used
+------------------------------------------------------------------------------------------
+
+DATE: 2026-08-15 (Saturday)
+EVENT ID: 49
+EVENT: It also ordered medical teams to be stationed at Central High School and Riverside Community Hall.
+LOCATION: Central High School, Riverside Community Hall
+REPORTED BY: 2 article(s)
+SOURCES: article_08 (National Daily News), article_15 (The Riverton Herald)
+   - article_08: It also ordered medical teams to be stationed at Central High School and Riverside Community Hall
+   - article_15: Medical teams were stationed at Central High School and the Riverside Community Hall
+DATE BASIS: no date in the text - publication date used
+------------------------------------------------------------------------------------------
+
+DATE: 2026-08-15 (Saturday)
+EVENT ID: 50
+EVENT: The collector asked ward officers to survey damaged homes.
+LOCATION: Not mentioned
+REPORTED BY: 1 article(s)
+SOURCES: article_08 (National Daily News)
+DATE BASIS: no date in the text - publication date used
+------------------------------------------------------------------------------------------
+
+DATE: 2026-08-15 (Saturday)
+EVENT ID: 51
+EVENT: The water recedes.
+LOCATION: Not mentioned
+REPORTED BY: 1 article(s)
+SOURCES: article_08 (National Daily News)
+DATE BASIS: no date in the text - publication date used
+------------------------------------------------------------------------------------------
+
+DATE: 2026-08-15 (Saturday)
+EVENT ID: 52
+EVENT: Engineers were told to inspect the Old Bridge.
+LOCATION: Not mentioned
+REPORTED BY: 1 article(s)
+SOURCES: article_08 (National Daily News)
+DATE BASIS: no date in the text - publication date used
+------------------------------------------------------------------------------------------
+
+DATE: 2026-08-15 (Saturday)
+EVENT ID: 53
+EVENT: It is reopened.
+LOCATION: Not mentioned
+REPORTED BY: 1 article(s)
+SOURCES: article_08 (National Daily News)
+DATE BASIS: no date in the text - publication date used
+------------------------------------------------------------------------------------------
+
+DATE: 2026-08-15 (Saturday)
+EVENT ID: 61
+EVENT: A team from the public works department examined the pillars.
+LOCATION: public works department
+REPORTED BY: 1 article(s)
+SOURCES: article_10 (The Riverton Herald)
+DATE BASIS: no date in the text - publication date used
+------------------------------------------------------------------------------------------
+
+DATE: 2026-08-15 (Saturday)
+EVENT ID: 62
+EVENT: A team from the public works department approach roads on Saturday.
+LOCATION: Not mentioned
+REPORTED BY: 1 article(s)
+SOURCES: article_10 (The Riverton Herald)
+DATE BASIS: weekday stated in the article, resolved with the publication date
+------------------------------------------------------------------------------------------
+
+DATE: 2026-08-15 (Saturday)
+EVENT ID: 64
+EVENT: Two people were treated for minor injuries after slipping on flooded roads.
+LOCATION: Not mentioned
+REPORTED BY: 1 article(s)
+SOURCES: article_10 (The Riverton Herald)
+DATE BASIS: no date in the text - publication date used
+------------------------------------------------------------------------------------------
+
+DATE: 2026-08-15 (Saturday)
+EVENT ID: 65
+EVENT: Police deployed extra personnel.
+LOCATION: Not mentioned
+REPORTED BY: 1 article(s)
+SOURCES: article_10 (The Riverton Herald)
+DATE BASIS: no date in the text - publication date used
+------------------------------------------------------------------------------------------
+
+DATE: 2026-08-15 (Saturday)
+EVENT ID: 68
+EVENT: The final decision depends on the weather and the condition of school buildings.
+LOCATION: Not mentioned
+REPORTED BY: 1 article(s)
+SOURCES: article_11 (Riverton Evening Post)
+DATE BASIS: no date in the text - publication date used
+------------------------------------------------------------------------------------------
+
+DATE: 2026-08-15 (Saturday)
+EVENT ID: 69
+EVENT: Central High School may need to be vacated.
+LOCATION: Not mentioned
+REPORTED BY: 1 article(s)
+SOURCES: article_11 (Riverton Evening Post)
+DATE BASIS: no date in the text - publication date used
+------------------------------------------------------------------------------------------
+
+DATE: 2026-08-15 (Saturday)
+EVENT ID: 70
+EVENT: Alternative arrangements were being discussed.
+STATED BY: Officials
+LOCATION: Not mentioned
+REPORTED BY: 1 article(s)
+SOURCES: article_11 (Riverton Evening Post)
+DATE BASIS: no date in the text - publication date used
+------------------------------------------------------------------------------------------
+
+DATE: 2026-08-15 (Saturday)
+TIME: morning
+EVENT ID: 54
+EVENT: Water began to recede from the Riverside neighbourhood on Saturday morning.
+LOCATION: Riverside neighbourhood
+REPORTED BY: 1 article(s)
+SOURCES: article_09 (City News Network)
+DATE BASIS: weekday stated in the article, resolved with the publication date
+------------------------------------------------------------------------------------------
+
+DATE: 2026-08-15 (Saturday)
+EVENT ID: 55
+EVENT: Many families returned to find furniture and household goods damaged by the flood.
+LOCATION: Not mentioned
+REPORTED BY: 1 article(s)
+SOURCES: article_09 (City News Network)
+DATE BASIS: no date in the text - publication date used
+------------------------------------------------------------------------------------------
+
+DATE: 2026-08-15 (Saturday)
+TIME: 11 a.m.
+EVENT ID: 21
+EVENT: Power supply was restored to most streets by 11 a.m. on Saturday.
+LOCATION: Not mentioned
+REPORTED BY: 3 article(s)
+SOURCES: article_03 (City News Network), article_09 (City News Network), article_14 (City News Network)
+   - article_03: Power supply was restored to most streets by 11 a.m.
+   - article_09: Power supply was restored to most streets by 11 a.m.
+   - article_14: Power supply was restored to most streets by 11 a.m. on Saturday
+DATE BASIS: weekday stated in the article, resolved with the publication date
+------------------------------------------------------------------------------------------
+
+DATE: 2026-08-15 (Saturday)
+EVENT ID: 16
+EVENT: Rainfall eased in Riverton on Saturday, August 15.
+LOCATION: Riverton
+REPORTED BY: 3 article(s)
+SOURCES: article_03 (City News Network), article_06 (Regional Weather Review), article_11 (Riverton Evening Post)
+   - article_03: Rainfall eased in Riverton on Saturday, August 15
+   - article_06: The rain eased
+   - article_11: Rainfall eased on Saturday
+DATE BASIS: date stated in the article
+------------------------------------------------------------------------------------------
+
+DATE: 2026-08-15 (Saturday)
+EVENT ID: 17
+EVENT: Several neighbourhoods continued to deal with flooding caused by the previous day’s downpour.
+LOCATION: Not mentioned
+REPORTED BY: 2 article(s)
+SOURCES: article_03 (City News Network), article_11 (Riverton Evening Post)
+   - article_03: Several neighbourhoods continued to deal with flooding caused by the previous day’s downpour
+   - article_11: Several neighbourhoods continued to deal with flooding
+DATE BASIS: same date as the other event of that sentence
+------------------------------------------------------------------------------------------
+
+DATE: 2026-08-15 (Saturday)
+EVENT ID: 18
+EVENT: 60 residents had used the temporary shelters at Central High School and Riverside Community Hall.
+STATED BY: The municipal corporation
+LOCATION: Central High School, Riverside Community Hall
+REPORTED BY: 4 article(s)
+SOURCES: article_03 (City News Network), article_09 (City News Network), article_11 (Riverton Evening Post), article_13 (National Daily News)
+   - article_03: 60 residents had used the temporary shelters at Central High School and Riverside Community Hall
+   - article_09: 60 residents had used the temporary shelters at Central High School and Riverside Community Hall
+   - article_11: Central High School is being used as a temporary shelter
+   - article_13: Central High School is still being used as a temporary shelter
+DATE BASIS: no date in the text - publication date used
+------------------------------------------------------------------------------------------
+
+DATE: 2026-08-15 (Saturday)
+EVENT ID: 19
+EVENT: Officials began distributing drinking water and food packets at both sites.
+LOCATION: Not mentioned
+REPORTED BY: 2 article(s)
+SOURCES: article_03 (City News Network), article_15 (The Riverton Herald)
+   - article_03: Officials began distributing drinking water and food packets at both sites
+   - article_15: Officials began distributing drinking water and food packets at both sites
+DATE BASIS: no date in the text - publication date used
+------------------------------------------------------------------------------------------
+
+DATE: 2026-08-15 (Saturday)
+EVENT ID: 20
+EVENT: Power supply had been suspended in parts of Riverside as a safety measure.
+LOCATION: Riverside
+REPORTED BY: 3 article(s)
+SOURCES: article_03 (City News Network), article_14 (City News Network), article_09 (City News Network)
+   - article_03: Power supply had been suspended in parts of Riverside as a safety measure
+   - article_14: Power supply had been suspended in parts of Riverside as a safety measure
+   - article_09: Power supply had been suspended in parts of Riverside as a safety measure
+DATE BASIS: no date in the text - publication date used
+------------------------------------------------------------------------------------------
+
+DATE: 2026-08-15 (Saturday)
+EVENT ID: 24
+EVENT: Engineers checked its structural safety.
+LOCATION: Not mentioned
+REPORTED BY: 2 article(s)
+SOURCES: article_03 (City News Network), article_10 (The Riverton Herald)
+   - article_03: Engineers checked its structural safety
+   - article_10: Engineers checked its structural safety
+DATE BASIS: no date in the text - publication date used
+------------------------------------------------------------------------------------------
+
+DATE: 2026-08-15 (Saturday)
+EVENT ID: 25
+EVENT: A decision on reopening the bridge would be made after the inspection.
+STATED BY: The district collector
+LOCATION: Not mentioned
+REPORTED BY: 2 article(s)
+SOURCES: article_03 (City News Network), article_10 (The Riverton Herald)
+   - article_03: A decision on reopening the bridge would be made after the inspection
+   - article_10: A decision on reopening the bridge would be made after the inspection
+DATE BASIS: no date in the text - publication date used
+------------------------------------------------------------------------------------------
+
+DATE: 2026-08-15 (Saturday)
+TIME: afternoon
+EVENT ID: 26
+EVENT: No deaths had been reported as of Saturday afternoon.
+LOCATION: Not mentioned
+REPORTED BY: 2 article(s)
+SOURCES: article_03 (City News Network), article_10 (The Riverton Herald)
+   - article_03: No deaths had been reported as of Saturday afternoon
+   - article_10: No deaths had been reported as of Saturday afternoon
+DATE BASIS: weekday stated in the article, resolved with the publication date
+------------------------------------------------------------------------------------------
+
+DATE: 2026-08-15 (Saturday)
+TIME: evening
+EVENT ID: 56
+EVENT: Most of them had returned home by Saturday evening.
+LOCATION: Not mentioned
+REPORTED BY: 1 article(s)
+SOURCES: article_09 (City News Network)
+DATE BASIS: weekday stated in the article, resolved with the publication date
+------------------------------------------------------------------------------------------
+
+DATE: 2026-08-15 (Saturday)
+EVENT ID: 57
+EVENT: Those with unsafe homes stayed on.
+LOCATION: Not mentioned
+REPORTED BY: 2 article(s)
+SOURCES: article_09 (City News Network), article_13 (National Daily News)
+   - article_09: Those with unsafe homes stayed on
+   - article_13: Whose homes remain unsafe
+DATE BASIS: same date as the other event of that sentence
+------------------------------------------------------------------------------------------
+
+DATE: 2026-08-15 (Saturday)
+EVENT ID: 58
+EVENT: Residents said the supply was steady through the afternoon.
+LOCATION: Not mentioned
+REPORTED BY: 1 article(s)
+SOURCES: article_09 (City News Network)
+DATE BASIS: no date in the text - publication date used
+------------------------------------------------------------------------------------------
+
+DATE: 2026-08-15 (Saturday)
+EVENT ID: 59
+EVENT: Ward officers began recording damage to homes and shops.
+LOCATION: Not mentioned
+REPORTED BY: 1 article(s)
+SOURCES: article_09 (City News Network)
+DATE BASIS: no date in the text - publication date used
+------------------------------------------------------------------------------------------
+
+DATE: 2026-08-15 (Saturday)
+EVENT ID: 60
+EVENT: Families were asked to keep photographs of the damage for compensation claims.
+LOCATION: Not mentioned
+REPORTED BY: 1 article(s)
+SOURCES: article_09 (City News Network)
+DATE BASIS: no date in the text - publication date used
+------------------------------------------------------------------------------------------
+
+DATE: 2026-08-15 (Saturday)
+TIME: late
+EVENT ID: 22
+EVENT: Repair crews had finished inspecting damaged electrical equipment late on Saturday.
+LOCATION: Not mentioned
+REPORTED BY: 3 article(s)
+SOURCES: article_03 (City News Network), article_10 (The Riverton Herald), article_14 (City News Network)
+   - article_03: Repair crews continued to inspect damaged electrical equipment
+   - article_10: Repair crews continued to inspect damaged electrical equipment
+   - article_14: Repair crews had finished inspecting damaged electrical equipment late on Saturday
+DATE BASIS: weekday stated in the article, resolved with the publication date
+------------------------------------------------------------------------------------------
+
+
+##########################################################################################
+# Sunday, 16 August 2026
+##########################################################################################
+
+DATE: 2026-08-16 (Sunday)
+EVENT ID: 86
+EVENT: The remaining families have moved back to Riverside or to relatives' homes.
+LOCATION: Not mentioned
+REPORTED BY: 1 article(s)
+SOURCES: article_13 (National Daily News)
+DATE BASIS: no date in the text - publication date used
+------------------------------------------------------------------------------------------
+
+DATE: 2026-08-16 (Sunday)
+EVENT ID: 88
+EVENT: Classrooms at Central High School will then be cleaned.
+LOCATION: Central High School
+REPORTED BY: 2 article(s)
+SOURCES: article_13 (National Daily News), article_17 (Riverton Evening Post)
+   - article_13: Classrooms at Central High School will then be cleaned
+   - article_17: The school can be cleaned
+DATE BASIS: no date in the text - publication date used
+------------------------------------------------------------------------------------------
+
+DATE: 2026-08-16 (Sunday)
+EVENT ID: 89
+EVENT: Classrooms at Central High School disinfected.
+LOCATION: Not mentioned
+REPORTED BY: 1 article(s)
+SOURCES: article_13 (National Daily News)
+DATE BASIS: no date in the text - publication date used
+------------------------------------------------------------------------------------------
+
+DATE: 2026-08-16 (Sunday)
+EVENT ID: 90
+EVENT: Parents expressed concern about missed lessons.
+LOCATION: Not mentioned
+REPORTED BY: 1 article(s)
+SOURCES: article_13 (National Daily News)
+DATE BASIS: no date in the text - publication date used
+------------------------------------------------------------------------------------------
+
+DATE: 2026-08-16 (Sunday)
+EVENT ID: 91
+EVENT: Extra classes would be arranged later in the month.
+STATED BY: The department
+LOCATION: Not mentioned
+REPORTED BY: 1 article(s)
+SOURCES: article_13 (National Daily News)
+DATE BASIS: no date in the text - publication date used
+------------------------------------------------------------------------------------------
+
+DATE: 2026-08-16 (Sunday)
+EVENT ID: 92
+EVENT: Power supply was restored to the remaining streets of Riverside on Sunday.
+STATED BY: the electricity board
+LOCATION: Not mentioned
+REPORTED BY: 1 article(s)
+SOURCES: article_14 (City News Network)
+DATE BASIS: weekday stated in the article, resolved with the publication date
+------------------------------------------------------------------------------------------
+
+DATE: 2026-08-16 (Sunday)
+EVENT ID: 93
+EVENT: The remaining streets needed new cables.
+LOCATION: Not mentioned
+REPORTED BY: 1 article(s)
+SOURCES: article_14 (City News Network)
+DATE BASIS: no date in the text - publication date used
+------------------------------------------------------------------------------------------
+
+DATE: 2026-08-16 (Sunday)
+EVENT ID: 94
+EVENT: Water damaged a transformer.
+LOCATION: Not mentioned
+REPORTED BY: 1 article(s)
+SOURCES: article_14 (City News Network)
+DATE BASIS: no date in the text - publication date used
+------------------------------------------------------------------------------------------
+
+DATE: 2026-08-16 (Sunday)
+EVENT ID: 95
+EVENT: Engineers replaced one transformer and four street-level junction boxes.
+LOCATION: Not mentioned
+REPORTED BY: 1 article(s)
+SOURCES: article_14 (City News Network)
+DATE BASIS: no date in the text - publication date used
+------------------------------------------------------------------------------------------
+
+DATE: 2026-08-16 (Sunday)
+EVENT ID: 96
+EVENT: It had deployed 12 repair crews across the eastern part of the city.
+STATED BY: The electricity board
+LOCATION: eastern part of the city
+REPORTED BY: 1 article(s)
+SOURCES: article_14 (City News Network)
+DATE BASIS: no date in the text - publication date used
+------------------------------------------------------------------------------------------
+
+DATE: 2026-08-16 (Sunday)
+EVENT ID: 97
+EVENT: Residents were asked not to touch wires or switches in flooded homes.
+LOCATION: flooded homes
+REPORTED BY: 1 article(s)
+SOURCES: article_14 (City News Network)
+DATE BASIS: no date in the text - publication date used
+------------------------------------------------------------------------------------------
+
+DATE: 2026-08-16 (Sunday)
+EVENT ID: 98
+EVENT: They are checked.
+LOCATION: Not mentioned
+REPORTED BY: 1 article(s)
+SOURCES: article_14 (City News Network)
+DATE BASIS: no date in the text - publication date used
+------------------------------------------------------------------------------------------
+
+DATE: 2026-08-16 (Sunday)
+EVENT ID: 99
+EVENT: A helpline was opened for complaints.
+LOCATION: Not mentioned
+REPORTED BY: 1 article(s)
+SOURCES: article_14 (City News Network)
+DATE BASIS: no date in the text - publication date used
+------------------------------------------------------------------------------------------
+
+DATE: 2026-08-16 (Sunday)
+EVENT ID: 100
+EVENT: Health officials in Riverton warned residents of waterborne diseases after the flooding.
+LOCATION: Riverton
+REPORTED BY: 1 article(s)
+SOURCES: article_15 (The Riverton Herald)
+DATE BASIS: no date in the text - publication date used
+------------------------------------------------------------------------------------------
+
+DATE: 2026-08-16 (Sunday)
+EVENT ID: 101
+EVENT: No outbreak had been reported as of Sunday.
+LOCATION: Not mentioned
+REPORTED BY: 1 article(s)
+SOURCES: article_15 (The Riverton Herald)
+DATE BASIS: weekday stated in the article, resolved with the publication date
+------------------------------------------------------------------------------------------
+
+DATE: 2026-08-16 (Sunday)
+EVENT ID: 102
+EVENT: Cases of diarrhoea and fever to rise.
+LOCATION: Not mentioned
+REPORTED BY: 1 article(s)
+SOURCES: article_15 (The Riverton Herald)
+DATE BASIS: no date in the text - publication date used
+------------------------------------------------------------------------------------------
+
+DATE: 2026-08-16 (Sunday)
+EVENT ID: 104
+EVENT: Chlorine tablets were distributed in flooded neighbourhoods.
+LOCATION: flooded neighbourhoods
+REPORTED BY: 1 article(s)
+SOURCES: article_15 (The Riverton Herald)
+DATE BASIS: no date in the text - publication date used
+------------------------------------------------------------------------------------------
+
+DATE: 2026-08-16 (Sunday)
+EVENT ID: 105
+EVENT: Residents were advised to boil drinking water.
+LOCATION: Not mentioned
+REPORTED BY: 1 article(s)
+SOURCES: article_15 (The Riverton Herald)
+DATE BASIS: no date in the text - publication date used
+------------------------------------------------------------------------------------------
+
+DATE: 2026-08-16 (Sunday)
+EVENT ID: 106
+EVENT: Residents avoid walking through standing water.
+LOCATION: Not mentioned
+REPORTED BY: 1 article(s)
+SOURCES: article_15 (The Riverton Herald)
+DATE BASIS: no date in the text - publication date used
+------------------------------------------------------------------------------------------
+
+DATE: 2026-08-16 (Sunday)
+EVENT ID: 108
+EVENT: Health officials asked people with fever to visit the nearest clinic.
+LOCATION: Not mentioned
+REPORTED BY: 1 article(s)
+SOURCES: article_15 (The Riverton Herald)
+DATE BASIS: no date in the text - publication date used
+------------------------------------------------------------------------------------------
+
+DATE: 2026-08-16 (Sunday)
+EVENT ID: 85
+EVENT: 28 residents were still staying at Central High School.
+STATED BY: Officials
+LOCATION: shelter, Central High School
+REPORTED BY: 2 article(s)
+SOURCES: article_13 (National Daily News), article_17 (Riverton Evening Post)
+   - article_13: 28 residents are still staying at the shelter
+   - article_17: 28 residents were still staying at Central High School
+DATE BASIS: no date in the text - publication date used
+------------------------------------------------------------------------------------------
+
+DATE: 2026-08-16 (Sunday)
+TIME: overnight
+EVENT ID: 78
+EVENT: Minor cracks in the approach road were repaired overnight.
+LOCATION: approach road
+REPORTED BY: 1 article(s)
+SOURCES: article_12 (Metro Traffic Bulletin)
+DATE BASIS: time stated, day taken from the publication date
+------------------------------------------------------------------------------------------
+
+DATE: 2026-08-16 (Sunday)
+EVENT ID: 79
+EVENT: Police removed the diversion toward the North Bypass for cars and two-wheelers.
+LOCATION: North Bypass
+REPORTED BY: 1 article(s)
+SOURCES: article_12 (Metro Traffic Bulletin)
+DATE BASIS: no date in the text - publication date used
+------------------------------------------------------------------------------------------
+
+DATE: 2026-08-16 (Sunday)
+EVENT ID: 80
+EVENT: Traffic officers will monitor water levels in the Riverton River throughout the day.
+LOCATION: Riverton River
+REPORTED BY: 1 article(s)
+SOURCES: article_12 (Metro Traffic Bulletin)
+DATE BASIS: no date in the text - publication date used
+------------------------------------------------------------------------------------------
+
+DATE: 2026-08-16 (Sunday)
+TIME: morning
+EVENT ID: 63
+EVENT: Officials expected a preliminary report by Sunday morning.
+LOCATION: Not mentioned
+REPORTED BY: 1 article(s)
+SOURCES: article_10 (The Riverton Herald)
+DATE BASIS: weekday stated in the article, resolved with the publication date
+------------------------------------------------------------------------------------------
+
+DATE: 2026-08-16 (Sunday)
+TIME: morning
+EVENT ID: 73
+EVENT: The Old Bridge in Riverton was reopened to light vehicles on Sunday morning.
+LOCATION: Riverton
+REPORTED BY: 1 article(s)
+SOURCES: article_12 (Metro Traffic Bulletin)
+DATE BASIS: weekday stated in the article, resolved with the publication date
+------------------------------------------------------------------------------------------
+
+DATE: 2026-08-16 (Sunday)
+EVENT ID: 74
+EVENT: Engineers completed their inspection.
+LOCATION: Not mentioned
+REPORTED BY: 1 article(s)
+SOURCES: article_12 (Metro Traffic Bulletin)
+DATE BASIS: same date as the other event of that sentence
+------------------------------------------------------------------------------------------
+
+DATE: 2026-08-16 (Sunday)
+EVENT ID: 75
+EVENT: Heavy vehicles and buses remain barred.
+LOCATION: Not mentioned
+REPORTED BY: 1 article(s)
+SOURCES: article_12 (Metro Traffic Bulletin)
+DATE BASIS: no date in the text - publication date used
+------------------------------------------------------------------------------------------
+
+DATE: 2026-08-16 (Sunday)
+EVENT ID: 76
+EVENT: Further tests are done.
+LOCATION: Not mentioned
+REPORTED BY: 1 article(s)
+SOURCES: article_12 (Metro Traffic Bulletin)
+DATE BASIS: no date in the text - publication date used
+------------------------------------------------------------------------------------------
+
+DATE: 2026-08-16 (Sunday)
+EVENT ID: 77
+EVENT: The structure had not suffered serious damage.
+STATED BY: The district collector
+LOCATION: Not mentioned
+REPORTED BY: 1 article(s)
+SOURCES: article_12 (Metro Traffic Bulletin)
+DATE BASIS: no date in the text - publication date used
+------------------------------------------------------------------------------------------
+
+DATE: 2026-08-16 (Sunday)
+TIME: afternoon
+EVENT ID: 81
+EVENT: Bus services on three routes resumed on Sunday afternoon.
+LOCATION: Not mentioned
+REPORTED BY: 1 article(s)
+SOURCES: article_12 (Metro Traffic Bulletin)
+DATE BASIS: weekday stated in the article, resolved with the publication date
+------------------------------------------------------------------------------------------
+
+DATE: 2026-08-16 (Sunday)
+EVENT ID: 82
+EVENT: Bus services on three routes using the North Bypass.
+LOCATION: North Bypass
+REPORTED BY: 1 article(s)
+SOURCES: article_12 (Metro Traffic Bulletin)
+DATE BASIS: same date as the other event of that sentence
+------------------------------------------------------------------------------------------
+
+DATE: 2026-08-16 (Sunday)
+EVENT ID: 83
+EVENT: Normal bus movement over the bridge would be allowed after a load test.
+STATED BY: Officials
+LOCATION: Not mentioned
+REPORTED BY: 1 article(s)
+SOURCES: article_12 (Metro Traffic Bulletin)
+DATE BASIS: no date in the text - publication date used
+------------------------------------------------------------------------------------------
+
+
+##########################################################################################
+# Monday, 17 August 2026
+##########################################################################################
+
+DATE: 2026-08-17 (Monday)
+EVENT ID: 107
+EVENT: Mosquito control teams will begin fogging in Riverside on Monday.
+LOCATION: Riverside
+REPORTED BY: 1 article(s)
+SOURCES: article_15 (The Riverton Herald)
+DATE BASIS: weekday stated in the article, resolved with the publication date
+------------------------------------------------------------------------------------------
+
+DATE: 2026-08-17 (Monday)
+EVENT ID: 109
+EVENT: An initial survey by the municipal corporation found.
+LOCATION: Not mentioned
+REPORTED BY: 1 article(s)
+SOURCES: article_16 (Regional Business Review)
+DATE BASIS: no date in the text - publication date used
+------------------------------------------------------------------------------------------
+
+DATE: 2026-08-17 (Monday)
+EVENT ID: 110
+EVENT: 312 homes were damaged in the Riverton floods.
+LOCATION: Riverton floods
+REPORTED BY: 1 article(s)
+SOURCES: article_16 (Regional Business Review)
+DATE BASIS: no date in the text - publication date used
+------------------------------------------------------------------------------------------
+
+DATE: 2026-08-17 (Monday)
+EVENT ID: 111
+EVENT: Dozens of shops in the eastern part of the city also reported stock losses.
+LOCATION: eastern part of the city
+REPORTED BY: 1 article(s)
+SOURCES: article_16 (Regional Business Review)
+DATE BASIS: no date in the text - publication date used
+------------------------------------------------------------------------------------------
+
+DATE: 2026-08-17 (Monday)
+EVENT ID: 112
+EVENT: The corporation put the first estimate of damage at 40 crore rupees.
+LOCATION: 40 crore rupees
+REPORTED BY: 1 article(s)
+SOURCES: article_16 (Regional Business Review)
+DATE BASIS: no date in the text - publication date used
+------------------------------------------------------------------------------------------
+
+DATE: 2026-08-17 (Monday)
+EVENT ID: 113
+EVENT: The figure could change.
+STATED BY: Officials
+LOCATION: Not mentioned
+REPORTED BY: 1 article(s)
+SOURCES: article_16 (Regional Business Review)
+DATE BASIS: no date in the text - publication date used
+------------------------------------------------------------------------------------------
+
+DATE: 2026-08-17 (Monday)
+EVENT ID: 114
+EVENT: The survey continues.
+LOCATION: Not mentioned
+REPORTED BY: 1 article(s)
+SOURCES: article_16 (Regional Business Review)
+DATE BASIS: no date in the text - publication date used
+------------------------------------------------------------------------------------------
+
+DATE: 2026-08-17 (Monday)
+EVENT ID: 115
+EVENT: The city weather office recorded 118 millimetres of rain in twelve hours.
+LOCATION: Not mentioned
+REPORTED BY: 1 article(s)
+SOURCES: article_16 (Regional Business Review)
+DATE BASIS: no date in the text - publication date used
+------------------------------------------------------------------------------------------
+
+DATE: 2026-08-17 (Monday)
+EVENT ID: 116
+EVENT: They were waiting.
+STATED BY: Traders
+LOCATION: Not mentioned
+REPORTED BY: 1 article(s)
+SOURCES: article_16 (Regional Business Review)
+DATE BASIS: no date in the text - publication date used
+------------------------------------------------------------------------------------------
+
+DATE: 2026-08-17 (Monday)
+EVENT ID: 117
+EVENT: Insurance assessors to visit.
+LOCATION: Not mentioned
+REPORTED BY: 1 article(s)
+SOURCES: article_16 (Regional Business Review)
+DATE BASIS: no date in the text - publication date used
+------------------------------------------------------------------------------------------
+
+DATE: 2026-08-17 (Monday)
+EVENT ID: 118
+EVENT: The chamber of commerce asked the state government for a relief package.
+LOCATION: Not mentioned
+REPORTED BY: 1 article(s)
+SOURCES: article_16 (Regional Business Review)
+DATE BASIS: no date in the text - publication date used
+------------------------------------------------------------------------------------------
+
+DATE: 2026-08-17 (Monday)
+EVENT ID: 132
+EVENT: The closure was extended over the weekend and into Monday.
+LOCATION: Not mentioned
+REPORTED BY: 1 article(s)
+SOURCES: article_18 (National Daily News)
+DATE BASIS: weekday stated in the article, resolved with the publication date
+------------------------------------------------------------------------------------------
+
+DATE: 2026-08-17 (Monday)
+EVENT ID: 133
+EVENT: Shelters remained in use.
+LOCATION: use
+REPORTED BY: 1 article(s)
+SOURCES: article_18 (National Daily News)
+DATE BASIS: same date as the other event of that sentence
+------------------------------------------------------------------------------------------
+
+DATE: 2026-08-17 (Monday)
+EVENT ID: 119
+EVENT: Relief work continued on Monday at the shelters set up after the Riverton floods.
+LOCATION: shelters set up after the Riverton floods
+REPORTED BY: 1 article(s)
+SOURCES: article_17 (Riverton Evening Post)
+DATE BASIS: weekday stated in the article, resolved with the publication date
+------------------------------------------------------------------------------------------
+
+DATE: 2026-08-17 (Monday)
+TIME: evening
+EVENT ID: 87
+EVENT: The municipal corporation moved these residents to the Riverside Community Hall on Monday evening.
+STATED BY: The municipal corporation
+LOCATION: Not mentioned
+REPORTED BY: 2 article(s)
+SOURCES: article_13 (National Daily News), article_17 (Riverton Evening Post)
+   - article_13: It would shift those residents to the Riverside Community Hall by Monday evening
+   - article_17: The municipal corporation moved these residents to the Riverside Community Hall on Monday evening
+DATE BASIS: weekday stated in the article, resolved with the publication date
+------------------------------------------------------------------------------------------
+
+DATE: 2026-08-17 (Monday)
+EVENT ID: 120
+EVENT: Volunteers helped carry belongings.
+LOCATION: Not mentioned
+REPORTED BY: 1 article(s)
+SOURCES: article_17 (Riverton Evening Post)
+DATE BASIS: no date in the text - publication date used
+------------------------------------------------------------------------------------------
+
+DATE: 2026-08-17 (Monday)
+EVENT ID: 121
+EVENT: Drinking water, food packets and medicines were available at the hall.
+LOCATION: hall
+REPORTED BY: 1 article(s)
+SOURCES: article_17 (Riverton Evening Post)
+DATE BASIS: no date in the text - publication date used
+------------------------------------------------------------------------------------------
+
+DATE: 2026-08-17 (Monday)
+EVENT ID: 122
+EVENT: Drinking water, food packets and medicines round the clock.
+LOCATION: Not mentioned
+REPORTED BY: 1 article(s)
+SOURCES: article_17 (Riverton Evening Post)
+DATE BASIS: no date in the text - publication date used
+------------------------------------------------------------------------------------------
+
+DATE: 2026-08-17 (Monday)
+EVENT ID: 123
+EVENT: Doctors visited twice a day to check on elderly residents.
+LOCATION: Not mentioned
+REPORTED BY: 1 article(s)
+SOURCES: article_17 (Riverton Evening Post)
+DATE BASIS: no date in the text - publication date used
+------------------------------------------------------------------------------------------
+
+DATE: 2026-08-17 (Monday)
+EVENT ID: 124
+EVENT: The district collector visited the hall.
+LOCATION: Not mentioned
+REPORTED BY: 1 article(s)
+SOURCES: article_17 (Riverton Evening Post)
+DATE BASIS: no date in the text - publication date used
+------------------------------------------------------------------------------------------
+
+DATE: 2026-08-17 (Monday)
+EVENT ID: 125
+EVENT: The district collector spoke to affected families.
+LOCATION: Not mentioned
+REPORTED BY: 1 article(s)
+SOURCES: article_17 (Riverton Evening Post)
+DATE BASIS: no date in the text - publication date used
+------------------------------------------------------------------------------------------
+
+DATE: 2026-08-17 (Monday)
+EVENT ID: 126
+EVENT: Compensation forms would be issued within the week.
+STATED BY: He
+LOCATION: Not mentioned
+REPORTED BY: 1 article(s)
+SOURCES: article_17 (Riverton Evening Post)
+DATE BASIS: no date in the text - publication date used
+------------------------------------------------------------------------------------------
+
+
+##########################################################################################
+# Tuesday, 18 August 2026
+##########################################################################################
+
+DATE: 2026-08-18 (Tuesday)
+EVENT ID: 84
+EVENT: Municipal schools in Riverton reopened on Tuesday, August 18, after remaining closed since the floods.
+STATED BY: The education department
+LOCATION: Riverton
+REPORTED BY: 2 article(s)
+SOURCES: article_13 (National Daily News), article_18 (National Daily News)
+   - article_13: Municipal schools in Riverton will now reopen on Tuesday instead of Monday
+   - article_18: Municipal schools in Riverton reopened on Tuesday, August 18, after remaining closed since the floods
+DATE BASIS: date stated in the article
+------------------------------------------------------------------------------------------
+
+DATE: 2026-08-18 (Tuesday)
+EVENT ID: 127
+EVENT: Classes at Central High School resumed.
+LOCATION: Central High School
+REPORTED BY: 1 article(s)
+SOURCES: article_18 (National Daily News)
+DATE BASIS: no date in the text - publication date used
+------------------------------------------------------------------------------------------
+
+DATE: 2026-08-18 (Tuesday)
+EVENT ID: 128
+EVENT: The building was cleaned.
+LOCATION: Not mentioned
+REPORTED BY: 1 article(s)
+SOURCES: article_18 (National Daily News)
+DATE BASIS: no date in the text - publication date used
+------------------------------------------------------------------------------------------
+
+DATE: 2026-08-18 (Tuesday)
+EVENT ID: 129
+EVENT: The building disinfected.
+LOCATION: Not mentioned
+REPORTED BY: 1 article(s)
+SOURCES: article_18 (National Daily News)
+DATE BASIS: no date in the text - publication date used
+------------------------------------------------------------------------------------------
+
+DATE: 2026-08-18 (Tuesday)
+EVENT ID: 130
+EVENT: Attendance was low on the first day, with many students still dealing with damage at home.
+LOCATION: Not mentioned
+REPORTED BY: 1 article(s)
+SOURCES: article_18 (National Daily News)
+DATE BASIS: no date in the text - publication date used
+------------------------------------------------------------------------------------------
+
+DATE: 2026-08-18 (Tuesday)
+EVENT ID: 131
+EVENT: They would not hold tests this week.
+STATED BY: Teachers
+LOCATION: Not mentioned
+REPORTED BY: 1 article(s)
+SOURCES: article_18 (National Daily News)
+DATE BASIS: no date in the text - publication date used
+------------------------------------------------------------------------------------------
+
+DATE: 2026-08-18 (Tuesday)
+EVENT ID: 134
+EVENT: Missed lessons would be covered through extra classes.
+STATED BY: The education department
+LOCATION: Not mentioned
+REPORTED BY: 1 article(s)
+SOURCES: article_18 (National Daily News)
+DATE BASIS: no date in the text - publication date used
+------------------------------------------------------------------------------------------
+
+DATE: 2026-08-18 (Tuesday)
+EVENT ID: 135
+EVENT: Students lost books.
+LOCATION: Not mentioned
+REPORTED BY: 1 article(s)
+SOURCES: article_18 (National Daily News)
+DATE BASIS: no date in the text - publication date used
+------------------------------------------------------------------------------------------
+
+DATE: 2026-08-18 (Tuesday)
+EVENT ID: 136
+EVENT: Students were offered free replacements.
+LOCATION: Not mentioned
+REPORTED BY: 1 article(s)
+SOURCES: article_18 (National Daily News)
+DATE BASIS: no date in the text - publication date used
+------------------------------------------------------------------------------------------
+

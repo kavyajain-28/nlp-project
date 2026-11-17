@@ -1,0 +1,35 @@
+article_id,sent_id,source,date,action,actor,object,location,time_phrase,raw_sentence
+article_01,1,The Riverton Herald,2026-08-14,response_action,rainfall,Riverton,Riverton,morning; 2026-08; August 13; early Friday,"2026-08-14 Source: The Riverton Herald Continuous rainfall began across Riverton late on August 13, causing several streets in the eastern part of the city to flood by early Friday morning."
+article_01,2,The Riverton Herald,2026-08-14,measurement,office,millimetres,,twelve hours,The city weather office recorded 118 millimetres of rain in twelve hours.
+article_01,3,The Riverton Herald,2026-08-14,receive,services,calls,,approximately 5:30 a.m.; August 14,Emergency services received their first major flooding calls at approximately 5:30 a.m. on August 14.
+article_01,4,The Riverton Herald,2026-08-14,flooding,Water,homes,the Old Bridge,,"Water entered ground-floor homes in the Riverside neighbourhood, and traffic was diverted from the Old Bridge."
+article_01,4,The Riverton Herald,2026-08-14,traffic_disruption,traffic,the Old Bridge,the Old Bridge,,"Water entered ground-floor homes in the Riverside neighbourhood, and traffic was diverted from the Old Bridge."
+article_01,5,The Riverton Herald,2026-08-14,shelter_opened,corporation,shelters,,,The municipal corporation opened two temporary shelters at Central High School and the Riverside Community Hall.
+article_01,6,The Riverton Herald,2026-08-14,say,Officials,46 residents,,10 a.m.,Officials said that 46 residents had been moved to the shelters by 10 a.m.
+article_01,6,The Riverton Herald,2026-08-14,evacuation,residents,the shelters,,10 a.m.,Officials said that 46 residents had been moved to the shelters by 10 a.m.
+article_01,7,The Riverton Herald,2026-08-14,warning,office,further rainfall,,Saturday,The weather office warned that further rainfall was expected through Saturday.
+article_01,8,The Riverton Herald,2026-08-14,advisory,Residents,underpasses,,,Residents were advised to avoid underpasses and roads near the river.
+article_02,1,National Daily News,2026-08-14,closure,authorities,schools,Riverton,"2026-08; Friday, August 14; the day","2026-08-14 Source: National Daily News Heavy rainfall continued in Riverton on Friday, August 14, leading authorities to close all municipal schools for the day."
+article_02,2,National Daily News,2026-08-14,announcement,decision,7:15 a.m.,Riverton River,7:15 a.m.; overnight,The decision was announced at 7:15 a.m. after water levels in the Riverton River rose sharply overnight.
+article_02,3,National Daily News,2026-08-14,closure,Bridge,vehicles,,around 6 a.m.,The Old Bridge was closed to vehicles at around 6 a.m. as a precaution.
+article_02,4,National Daily News,2026-08-14,traffic_disruption,Police,traffic,Riverside; the North Bypass,,"Police redirected traffic toward the North Bypass, while emergency teams helped residents leave low-lying homes in Riverside."
+article_02,4,National Daily News,2026-08-14,evacuation,teams,residents,Riverside; the North Bypass,,"Police redirected traffic toward the North Bypass, while emergency teams helped residents leave low-lying homes in Riverside."
+article_02,5,National Daily News,2026-08-14,confirmation,corporation,temporary shelters,,,The municipal corporation confirmed that temporary shelters had been set up at Central High School and Riverside Community Hall.
+article_02,5,National Daily News,2026-08-14,setup,shelters,Central High School,,,The municipal corporation confirmed that temporary shelters had been set up at Central High School and Riverside Community Hall.
+article_02,7,National Daily News,2026-08-14,say,collector,a review meeting,,4 p.m.,The district collector said that a review meeting would be held at 4 p.m. to assess the situation.
+article_02,8,National Daily News,2026-08-14,forecast,office,rain,,evening; Saturday,The weather office forecast more rain until Saturday evening.
+article_03,1,City News Network,2026-08-15,weather_change,Rainfall,Riverton,Riverton,"2026-08-15; Saturday, August 15; the previous day","2026-08-15 Source: City News Network Rainfall eased in Riverton on Saturday, August 15, but several neighbourhoods continued to deal with flooding caused by the previous day’s downpour."
+article_03,2,City News Network,2026-08-15,report,office,the city,,twelve hours; morning; Friday,The weather office reported that the city had received 118 millimetres of rain in the twelve hours leading up to Friday morning.
+article_03,2,City News Network,2026-08-15,receive,city,millimetres,,twelve hours; morning; Friday,The weather office reported that the city had received 118 millimetres of rain in the twelve hours leading up to Friday morning.
+article_03,3,City News Network,2026-08-15,say,corporation,60 residents,,,The municipal corporation said that 60 residents had used the temporary shelters at Central High School and Riverside Community Hall.
+article_03,3,City News Network,2026-08-15,shelter_usage,residents,shelters,,,The municipal corporation said that 60 residents had used the temporary shelters at Central High School and Riverside Community Hall.
+article_03,4,City News Network,2026-08-15,response_action,Officials,drinking water and food packets,,,Officials began distributing drinking water and food packets at both sites.
+article_03,4,City News Network,2026-08-15,relief_distribution,Officials,packets,,,Officials began distributing drinking water and food packets at both sites.
+article_03,5,City News Network,2026-08-15,suspension,which,parts,,11 a.m.,"Power supply, which had been suspended in parts of Riverside as a safety measure, was restored to most streets by 11 a.m. Repair crews continued to inspect damaged electrical equipment."
+article_03,5,City News Network,2026-08-15,power_restored,supply,most streets,,11 a.m.,"Power supply, which had been suspended in parts of Riverside as a safety measure, was restored to most streets by 11 a.m. Repair crews continued to inspect damaged electrical equipment."
+article_03,5,City News Network,2026-08-15,inspection,Repair crews,equipment,,11 a.m.,"Power supply, which had been suspended in parts of Riverside as a safety measure, was restored to most streets by 11 a.m. Repair crews continued to inspect damaged electrical equipment."
+article_03,6,City News Network,2026-08-15,remain,Bridge,engineers,,,The Old Bridge remained closed while engineers checked its structural safety.
+article_03,6,City News Network,2026-08-15,closed,The Old Bridge,engineers,,,The Old Bridge remained closed while engineers checked its structural safety.
+article_03,7,City News Network,2026-08-15,say,collector,a decision,,,The district collector said that a decision on reopening the bridge would be made after the inspection.
+article_03,7,City News Network,2026-08-15,reopen,a decision,bridge,,,The district collector said that a decision on reopening the bridge would be made after the inspection.
+article_03,8,City News Network,2026-08-15,report,deaths,Saturday afternoon,,afternoon; Saturday,No deaths had been reported as of Saturday afternoon.

@@ -1,0 +1,34 @@
+step,event_date,action,actor,object,location,n_mentions,sources,raw_sentence
+1,2026-08-14,measurement,office,millimetres,,1,['The Riverton Herald'],The city weather office recorded 118 millimetres of rain in twelve hours.
+2,2026-08-14,forecast,office,rain,,1,['National Daily News'],The weather office forecast more rain until Saturday evening.
+3,2026-08-14,advisory,Residents,underpasses,,1,['The Riverton Herald'],Residents were advised to avoid underpasses and roads near the river.
+4,2026-08-14,flooding,Water,homes,the Old Bridge,1,['The Riverton Herald'],"Water entered ground-floor homes in the Riverside neighbourhood, and traffic was diverted from the Old Bridge."
+5,2026-08-14,closure,Bridge,vehicles,,1,['National Daily News'],The Old Bridge was closed to vehicles at around 6 a.m. as a precaution.
+6,2026-08-14,closure,authorities,schools,Riverton,1,['National Daily News'],"2026-08-14 Source: National Daily News Heavy rainfall continued in Riverton on Friday, August 14, leading authorities to close all municipal schools for the day."
+7,2026-08-14,traffic_disruption,Police,traffic,Riverside; the North Bypass,1,['National Daily News'],"Police redirected traffic toward the North Bypass, while emergency teams helped residents leave low-lying homes in Riverside."
+8,2026-08-14,traffic_disruption,traffic,the Old Bridge,the Old Bridge,1,['The Riverton Herald'],"Water entered ground-floor homes in the Riverside neighbourhood, and traffic was diverted from the Old Bridge."
+9,2026-08-14,evacuation,residents,the shelters,,1,['The Riverton Herald'],Officials said that 46 residents had been moved to the shelters by 10 a.m.
+10,2026-08-14,evacuation,teams,residents,Riverside; the North Bypass,1,['National Daily News'],"Police redirected traffic toward the North Bypass, while emergency teams helped residents leave low-lying homes in Riverside."
+11,2026-08-14,setup,shelters,Central High School,,1,['National Daily News'],The municipal corporation confirmed that temporary shelters had been set up at Central High School and Riverside Community Hall.
+12,2026-08-14,shelter_opened,corporation,shelters,,1,['The Riverton Herald'],The municipal corporation opened two temporary shelters at Central High School and the Riverside Community Hall.
+13,2026-08-14,say,collector,a review meeting,,2,"['City News Network', 'National Daily News']",The district collector said that a review meeting would be held at 4 p.m. to assess the situation.
+14,2026-08-14,announcement,decision,7:15 a.m.,Riverton River,1,['National Daily News'],The decision was announced at 7:15 a.m. after water levels in the Riverton River rose sharply overnight.
+15,2026-08-14,confirmation,corporation,temporary shelters,,1,['National Daily News'],The municipal corporation confirmed that temporary shelters had been set up at Central High School and Riverside Community Hall.
+16,2026-08-14,receive,services,calls,,1,['The Riverton Herald'],Emergency services received their first major flooding calls at approximately 5:30 a.m. on August 14.
+17,2026-08-14,response_action,rainfall,Riverton,Riverton,1,['The Riverton Herald'],"2026-08-14 Source: The Riverton Herald Continuous rainfall began across Riverton late on August 13, causing several streets in the eastern part of the city to flood by early Friday morning."
+18,2026-08-14,say,Officials,46 residents,,1,['The Riverton Herald'],Officials said that 46 residents had been moved to the shelters by 10 a.m.
+19,2026-08-15,warning,office,further rainfall,,1,['The Riverton Herald'],The weather office warned that further rainfall was expected through Saturday.
+20,2026-08-15,weather_change,Rainfall,Riverton,Riverton,1,['City News Network'],"2026-08-15 Source: City News Network Rainfall eased in Riverton on Saturday, August 15, but several neighbourhoods continued to deal with flooding caused by the previous day’s downpour."
+21,2026-08-15,shelter_usage,residents,shelters,,1,['City News Network'],The municipal corporation said that 60 residents had used the temporary shelters at Central High School and Riverside Community Hall.
+22,2026-08-15,relief_distribution,Officials,packets,,1,['City News Network'],Officials began distributing drinking water and food packets at both sites.
+23,2026-08-15,power_restored,supply,most streets,,1,['City News Network'],"Power supply, which had been suspended in parts of Riverside as a safety measure, was restored to most streets by 11 a.m. Repair crews continued to inspect damaged electrical equipment."
+24,2026-08-15,inspection,Repair crews,equipment,,1,['City News Network'],"Power supply, which had been suspended in parts of Riverside as a safety measure, was restored to most streets by 11 a.m. Repair crews continued to inspect damaged electrical equipment."
+25,2026-08-15,report,deaths,Saturday afternoon,,1,['City News Network'],No deaths had been reported as of Saturday afternoon.
+26,2026-08-15,report,office,the city,,1,['City News Network'],The weather office reported that the city had received 118 millimetres of rain in the twelve hours leading up to Friday morning.
+27,2026-08-15,closed,The Old Bridge,engineers,,1,['City News Network'],The Old Bridge remained closed while engineers checked its structural safety.
+28,2026-08-15,receive,city,millimetres,,1,['City News Network'],The weather office reported that the city had received 118 millimetres of rain in the twelve hours leading up to Friday morning.
+29,2026-08-15,remain,Bridge,engineers,,1,['City News Network'],The Old Bridge remained closed while engineers checked its structural safety.
+30,2026-08-15,reopen,a decision,bridge,,1,['City News Network'],The district collector said that a decision on reopening the bridge would be made after the inspection.
+31,2026-08-15,response_action,Officials,drinking water and food packets,,1,['City News Network'],Officials began distributing drinking water and food packets at both sites.
+32,2026-08-15,say,corporation,60 residents,,1,['City News Network'],The municipal corporation said that 60 residents had used the temporary shelters at Central High School and Riverside Community Hall.
+33,2026-08-15,suspension,which,parts,,1,['City News Network'],"Power supply, which had been suspended in parts of Riverside as a safety measure, was restored to most streets by 11 a.m. Repair crews continued to inspect damaged electrical equipment."

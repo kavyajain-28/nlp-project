@@ -1,0 +1,137 @@
+timeline_position,event_id,event_date,event_time_label,event_text,statement_by,location_text,period_end,article_count,article_ids,date_confidence,date_source
+1,71,2026-08-09,evening,Parents were asked to wait for an official announcement on Sunday evening,,Not mentioned,,1,article_11,explicit,weekday
+2,72,2026-08-09,,Teachers have been asked to inspect classrooms on Sunday,,Not mentioned,,1,article_11,explicit,weekday
+3,67,2026-08-10,,"Municipal schools in Riverton are likely to reopen on Monday, the education department said",,Riverton,,1,article_11,explicit,weekday
+4,39,2026-08-13,late,Continuous rainfall began across Riverton late on August 13,,Riverton,,3,"article_06, article_01, article_16",explicit,explicit_date
+5,9,2026-08-14,,"Authorities closed all municipal schools in Riverton on Friday, August 14, because of the flooding",,Riverton,,4,"article_02, article_18, article_11, article_07",explicit,explicit_date
+6,44,2026-08-14,,"Senior officials from the municipal corporation, the police and the weather office were asked to attend",,municipal corporation,,2,"article_07, article_08",inferred,publication_date
+7,45,2026-08-14,,Teams were also checking pumping stations in the eastern part of the city,,eastern part of the city,,1,article_07,inferred,publication_date
+8,46,2026-08-14,,Private schools were asked to follow the closure order,,Not mentioned,,1,article_07,inferred,publication_date
+9,47,2026-08-14,,Exams scheduled for Friday would be rescheduled,The education department,Not mentioned,,1,article_07,explicit,weekday
+10,66,2026-08-14,,Riverton were closed on Friday,,Not mentioned,,1,article_11,explicit,weekday
+11,103,2026-08-14,,Medical teams ordered at the Friday review meeting,,Not mentioned,,1,article_15,explicit,weekday
+12,40,2026-08-14,,A slow-moving system over the coast was feeding the downpour,Forecasters,Not mentioned,,1,article_06,inferred,publication_date
+13,41,2026-08-14,,Farmers on the outskirts were asked to delay harvesting,,Not mentioned,,1,article_06,inferred,publication_date
+14,11,2026-08-14,overnight,Water in the Riverton River had risen sharply overnight and was close to the bridge deck,,Riverton River,,3,"article_02, article_07, article_05",time_only,publication_date_with_time
+15,31,2026-08-14,,The North Bypass saw heavy congestion through the morning,,Not mentioned,,1,article_05,inferred,publication_date
+16,32,2026-08-14,,Buses on three city routes were rerouted,,Not mentioned,,1,article_05,inferred,publication_date
+17,33,2026-08-14,,Buses on three city routes cancelled,,Not mentioned,,1,article_05,inferred,publication_date
+18,42,2026-08-14,overnight,"The Riverton River crossed its warning mark overnight, according to the irrigation department",,Not mentioned,,1,article_06,time_only,publication_date_with_time
+19,43,2026-08-14,,Levels would be checked every two hours,Officials,Not mentioned,,1,article_06,inferred,publication_date
+20,3,2026-08-14,5:30 a.m.,Emergency services received their first major flooding calls at approximately 5:30 a.m. on August 14,,Not mentioned,,1,article_01,explicit,explicit_date
+21,5,2026-08-14,,Traffic was diverted from the Old Bridge,,Old Bridge,,1,article_01,inferred,publication_date
+22,6,2026-08-14,,The municipal corporation opened two temporary shelters at Central High School and the Riverside Community Hall,The municipal corporation,"Central High School, Riverside Community Hall",,4,"article_01, article_04, article_02, article_07",inferred,publication_date
+23,13,2026-08-14,dawn,Emergency teams helped residents leave low-lying homes in Riverside,,Riverside,,2,"article_02, article_04",inferred,publication_date
+24,30,2026-08-14,,The weather office forecast more rain until Saturday evening,,Not mentioned,2026-08-15,5,"article_04, article_01, article_06, article_02, article_08",inferred,publication_date
+25,1,2026-08-14,early morning,Several streets in the eastern part of the city flooded by early Friday morning,,eastern part of the city,,2,"article_01, article_16",explicit,weekday
+26,23,2026-08-14,6 a.m.,The Old Bridge was closed to vehicles at around 6 a.m. as a precaution,traffic police,Not mentioned,,4,"article_03, article_10, article_02, article_05",inferred,publication_date_with_time
+27,12,2026-08-14,,Police redirected traffic toward the North Bypass,,North Bypass,,3,"article_02, article_05, article_10",inferred,publication_date
+28,10,2026-08-14,7:15 a.m.,The decision was announced at 7:15 a.m.,,Not mentioned,,2,"article_02, article_07",time_only,publication_date_with_time
+29,8,2026-08-14,morning,"Heavy rainfall continued in Riverton on Friday, August 14",,Riverton,,4,"article_02, article_11, article_18, article_06",explicit,explicit_date
+30,2,2026-08-14,morning,The city had received 118 millimetres of rain in the twelve hours leading up to Friday morning,The weather office,Riverton,,3,"article_01, article_06, article_03",explicit,weekday
+31,4,2026-08-14,morning,Floodwater entered ground-floor homes in the Riverside neighbourhood on Friday morning after continuous rainfall overnight,,Riverside neighbourhood,,2,"article_01, article_04",explicit,weekday
+32,7,2026-08-14,10 a.m.,46 residents had been moved to the shelters by 10 a.m. Volunteers from nearby wards,Officials,nearby wards,,2,"article_01, article_04",time_only,publication_date_with_time
+33,27,2026-08-14,,"46 residents brought blankets, mats",,Not mentioned,,1,article_04,inferred,publication_date
+34,28,2026-08-14,,Cooked meals to both locations,,Not mentioned,,1,article_04,inferred,publication_date
+35,34,2026-08-14,,Police advised residents to stay away from the river bank,,river bank,,4,"article_05, article_01, article_06, article_04",inferred,publication_date
+36,29,2026-08-14,,Police flooded underpasses,,Not mentioned,,1,article_04,inferred,publication_date
+37,35,2026-08-14,noon,Several low-lying junctions in Riverside remained under water by noon,,Riverside,,1,article_05,time_only,publication_date_with_time
+38,36,2026-08-14,,The bridge would stay closed,Traffic officials,Not mentioned,,1,article_05,inferred,publication_date
+39,37,2026-08-14,,Engineers declared it safe,,Not mentioned,,1,article_05,inferred,publication_date
+40,14,2026-08-14,noon,Approximately 60 people had stayed at the two shelters on Friday,Officials,two shelters,,3,"article_02, article_04, article_08",explicit,weekday
+41,38,2026-08-14,afternoon,An update is expected after the review meeting on Friday afternoon,,Not mentioned,,1,article_05,explicit,weekday
+42,15,2026-08-14,4 p.m.,The district collector held a review meeting on Friday at 4 p.m. to assess the flood situation in Riverton,The district collector,Riverton,,3,"article_02, article_07, article_08",explicit,weekday
+43,48,2026-08-15,,The meeting directed the municipal corporation to distribute drinking water and food packets at all shelters,,shelters,,1,article_08,inferred,publication_date
+44,49,2026-08-15,,It also ordered medical teams to be stationed at Central High School and Riverside Community Hall,,"Central High School, Riverside Community Hall",,2,"article_08, article_15",inferred,publication_date
+45,50,2026-08-15,,The collector asked ward officers to survey damaged homes,,Not mentioned,,1,article_08,inferred,publication_date
+46,51,2026-08-15,,The water recedes,,Not mentioned,,1,article_08,inferred,publication_date
+47,52,2026-08-15,,Engineers were told to inspect the Old Bridge,,Not mentioned,,1,article_08,inferred,publication_date
+48,53,2026-08-15,,It is reopened,,Not mentioned,,1,article_08,inferred,publication_date
+49,61,2026-08-15,,A team from the public works department examined the pillars,,public works department,,1,article_10,inferred,publication_date
+50,62,2026-08-15,,A team from the public works department approach roads on Saturday,,Not mentioned,,1,article_10,explicit,weekday
+51,64,2026-08-15,,Two people were treated for minor injuries after slipping on flooded roads,,Not mentioned,,1,article_10,inferred,publication_date
+52,65,2026-08-15,,Police deployed extra personnel,,Not mentioned,,1,article_10,inferred,publication_date
+53,68,2026-08-15,,The final decision depends on the weather and the condition of school buildings,,Not mentioned,,1,article_11,inferred,publication_date
+54,69,2026-08-15,,Central High School may need to be vacated,,Not mentioned,,1,article_11,inferred,publication_date
+55,70,2026-08-15,,Alternative arrangements were being discussed,Officials,Not mentioned,,1,article_11,inferred,publication_date
+56,54,2026-08-15,morning,Water began to recede from the Riverside neighbourhood on Saturday morning,,Riverside neighbourhood,,1,article_09,explicit,weekday
+57,55,2026-08-15,,Many families returned to find furniture and household goods damaged by the flood,,Not mentioned,,1,article_09,inferred,publication_date
+58,21,2026-08-15,11 a.m.,Power supply was restored to most streets by 11 a.m. on Saturday,,Not mentioned,,3,"article_03, article_09, article_14",explicit,weekday
+59,16,2026-08-15,,"Rainfall eased in Riverton on Saturday, August 15",,Riverton,,3,"article_03, article_06, article_11",explicit,explicit_date
+60,17,2026-08-15,,Several neighbourhoods continued to deal with flooding caused by the previous day’s downpour,,Not mentioned,,2,"article_03, article_11",inferred,inherited_from_parent_event
+61,18,2026-08-15,,60 residents had used the temporary shelters at Central High School and Riverside Community Hall,The municipal corporation,"Central High School, Riverside Community Hall",,4,"article_03, article_09, article_11, article_13",inferred,publication_date
+62,19,2026-08-15,,Officials began distributing drinking water and food packets at both sites,,Not mentioned,,2,"article_03, article_15",inferred,publication_date
+63,20,2026-08-15,,Power supply had been suspended in parts of Riverside as a safety measure,,Riverside,,3,"article_03, article_14, article_09",inferred,publication_date
+64,24,2026-08-15,,Engineers checked its structural safety,,Not mentioned,,2,"article_03, article_10",inferred,publication_date
+65,25,2026-08-15,,A decision on reopening the bridge would be made after the inspection,The district collector,Not mentioned,,2,"article_03, article_10",inferred,publication_date
+66,26,2026-08-15,afternoon,No deaths had been reported as of Saturday afternoon,,Not mentioned,,2,"article_03, article_10",explicit,weekday
+67,56,2026-08-15,evening,Most of them had returned home by Saturday evening,,Not mentioned,,1,article_09,explicit,weekday
+68,57,2026-08-15,,Those with unsafe homes stayed on,,Not mentioned,,2,"article_09, article_13",inferred,inherited_from_parent_event
+69,58,2026-08-15,,Residents said the supply was steady through the afternoon,,Not mentioned,,1,article_09,inferred,publication_date
+70,59,2026-08-15,,Ward officers began recording damage to homes and shops,,Not mentioned,,1,article_09,inferred,publication_date
+71,60,2026-08-15,,Families were asked to keep photographs of the damage for compensation claims,,Not mentioned,,1,article_09,inferred,publication_date
+72,22,2026-08-15,late,Repair crews had finished inspecting damaged electrical equipment late on Saturday,,Not mentioned,,3,"article_03, article_10, article_14",explicit,weekday
+73,86,2026-08-16,,The remaining families have moved back to Riverside or to relatives' homes,,Not mentioned,,1,article_13,inferred,publication_date
+74,88,2026-08-16,,Classrooms at Central High School will then be cleaned,,Central High School,,2,"article_13, article_17",inferred,publication_date
+75,89,2026-08-16,,Classrooms at Central High School disinfected,,Not mentioned,,1,article_13,inferred,publication_date
+76,90,2026-08-16,,Parents expressed concern about missed lessons,,Not mentioned,,1,article_13,inferred,publication_date
+77,91,2026-08-16,,Extra classes would be arranged later in the month,The department,Not mentioned,,1,article_13,inferred,publication_date
+78,92,2026-08-16,,Power supply was restored to the remaining streets of Riverside on Sunday,the electricity board,Not mentioned,,1,article_14,explicit,weekday
+79,93,2026-08-16,,The remaining streets needed new cables,,Not mentioned,,1,article_14,inferred,publication_date
+80,94,2026-08-16,,Water damaged a transformer,,Not mentioned,,1,article_14,inferred,publication_date
+81,95,2026-08-16,,Engineers replaced one transformer and four street-level junction boxes,,Not mentioned,,1,article_14,inferred,publication_date
+82,96,2026-08-16,,It had deployed 12 repair crews across the eastern part of the city,The electricity board,eastern part of the city,,1,article_14,inferred,publication_date
+83,97,2026-08-16,,Residents were asked not to touch wires or switches in flooded homes,,flooded homes,,1,article_14,inferred,publication_date
+84,98,2026-08-16,,They are checked,,Not mentioned,,1,article_14,inferred,publication_date
+85,99,2026-08-16,,A helpline was opened for complaints,,Not mentioned,,1,article_14,inferred,publication_date
+86,100,2026-08-16,,Health officials in Riverton warned residents of waterborne diseases after the flooding,,Riverton,,1,article_15,inferred,publication_date
+87,101,2026-08-16,,No outbreak had been reported as of Sunday,,Not mentioned,,1,article_15,explicit,weekday
+88,102,2026-08-16,,Cases of diarrhoea and fever to rise,,Not mentioned,,1,article_15,inferred,publication_date
+89,104,2026-08-16,,Chlorine tablets were distributed in flooded neighbourhoods,,flooded neighbourhoods,,1,article_15,inferred,publication_date
+90,105,2026-08-16,,Residents were advised to boil drinking water,,Not mentioned,,1,article_15,inferred,publication_date
+91,106,2026-08-16,,Residents avoid walking through standing water,,Not mentioned,,1,article_15,inferred,publication_date
+92,108,2026-08-16,,Health officials asked people with fever to visit the nearest clinic,,Not mentioned,,1,article_15,inferred,publication_date
+93,85,2026-08-16,,28 residents were still staying at Central High School,Officials,"shelter, Central High School",,2,"article_13, article_17",inferred,publication_date
+94,78,2026-08-16,overnight,Minor cracks in the approach road were repaired overnight,,approach road,,1,article_12,time_only,publication_date_with_time
+95,79,2026-08-16,,Police removed the diversion toward the North Bypass for cars and two-wheelers,,North Bypass,,1,article_12,inferred,publication_date
+96,80,2026-08-16,,Traffic officers will monitor water levels in the Riverton River throughout the day,,Riverton River,,1,article_12,inferred,publication_date
+97,63,2026-08-16,morning,Officials expected a preliminary report by Sunday morning,,Not mentioned,,1,article_10,explicit,weekday
+98,73,2026-08-16,morning,The Old Bridge in Riverton was reopened to light vehicles on Sunday morning,,Riverton,,1,article_12,explicit,weekday
+99,74,2026-08-16,,Engineers completed their inspection,,Not mentioned,,1,article_12,inferred,inherited_from_parent_event
+100,75,2026-08-16,,Heavy vehicles and buses remain barred,,Not mentioned,,1,article_12,inferred,publication_date
+101,76,2026-08-16,,Further tests are done,,Not mentioned,,1,article_12,inferred,publication_date
+102,77,2026-08-16,,The structure had not suffered serious damage,The district collector,Not mentioned,,1,article_12,inferred,publication_date
+103,81,2026-08-16,afternoon,Bus services on three routes resumed on Sunday afternoon,,Not mentioned,,1,article_12,explicit,weekday
+104,82,2026-08-16,,Bus services on three routes using the North Bypass,,North Bypass,,1,article_12,inferred,inherited_from_parent_event
+105,83,2026-08-16,,Normal bus movement over the bridge would be allowed after a load test,Officials,Not mentioned,,1,article_12,inferred,publication_date
+106,107,2026-08-17,,Mosquito control teams will begin fogging in Riverside on Monday,,Riverside,,1,article_15,explicit,weekday
+107,109,2026-08-17,,An initial survey by the municipal corporation found,,Not mentioned,,1,article_16,inferred,publication_date
+108,110,2026-08-17,,312 homes were damaged in the Riverton floods,,Riverton floods,,1,article_16,inferred,publication_date
+109,111,2026-08-17,,Dozens of shops in the eastern part of the city also reported stock losses,,eastern part of the city,,1,article_16,inferred,publication_date
+110,112,2026-08-17,,The corporation put the first estimate of damage at 40 crore rupees,,40 crore rupees,,1,article_16,inferred,publication_date
+111,113,2026-08-17,,The figure could change,Officials,Not mentioned,,1,article_16,inferred,publication_date
+112,114,2026-08-17,,The survey continues,,Not mentioned,,1,article_16,inferred,publication_date
+113,115,2026-08-17,,The city weather office recorded 118 millimetres of rain in twelve hours,,Not mentioned,,1,article_16,inferred,publication_date
+114,116,2026-08-17,,They were waiting,Traders,Not mentioned,,1,article_16,inferred,publication_date
+115,117,2026-08-17,,Insurance assessors to visit,,Not mentioned,,1,article_16,inferred,publication_date
+116,118,2026-08-17,,The chamber of commerce asked the state government for a relief package,,Not mentioned,,1,article_16,inferred,publication_date
+117,132,2026-08-17,,The closure was extended over the weekend and into Monday,,Not mentioned,,1,article_18,explicit,weekday
+118,133,2026-08-17,,Shelters remained in use,,use,,1,article_18,inferred,inherited_from_parent_event
+119,119,2026-08-17,,Relief work continued on Monday at the shelters set up after the Riverton floods,,shelters set up after the Riverton floods,,1,article_17,explicit,weekday
+120,87,2026-08-17,evening,The municipal corporation moved these residents to the Riverside Community Hall on Monday evening,The municipal corporation,Not mentioned,,2,"article_13, article_17",explicit,weekday
+121,120,2026-08-17,,Volunteers helped carry belongings,,Not mentioned,,1,article_17,inferred,publication_date
+122,121,2026-08-17,,"Drinking water, food packets and medicines were available at the hall",,hall,,1,article_17,inferred,publication_date
+123,122,2026-08-17,,"Drinking water, food packets and medicines round the clock",,Not mentioned,,1,article_17,inferred,publication_date
+124,123,2026-08-17,,Doctors visited twice a day to check on elderly residents,,Not mentioned,,1,article_17,inferred,publication_date
+125,124,2026-08-17,,The district collector visited the hall,,Not mentioned,,1,article_17,inferred,publication_date
+126,125,2026-08-17,,The district collector spoke to affected families,,Not mentioned,,1,article_17,inferred,publication_date
+127,126,2026-08-17,,Compensation forms would be issued within the week,He,Not mentioned,,1,article_17,inferred,publication_date
+128,84,2026-08-18,,"Municipal schools in Riverton reopened on Tuesday, August 18, after remaining closed since the floods",The education department,Riverton,,2,"article_13, article_18",explicit,explicit_date
+129,127,2026-08-18,,Classes at Central High School resumed,,Central High School,,1,article_18,inferred,publication_date
+130,128,2026-08-18,,The building was cleaned,,Not mentioned,,1,article_18,inferred,publication_date
+131,129,2026-08-18,,The building disinfected,,Not mentioned,,1,article_18,inferred,publication_date
+132,130,2026-08-18,,"Attendance was low on the first day, with many students still dealing with damage at home",,Not mentioned,,1,article_18,inferred,publication_date
+133,131,2026-08-18,,They would not hold tests this week,Teachers,Not mentioned,,1,article_18,inferred,publication_date
+134,134,2026-08-18,,Missed lessons would be covered through extra classes,The education department,Not mentioned,,1,article_18,inferred,publication_date
+135,135,2026-08-18,,Students lost books,,Not mentioned,,1,article_18,inferred,publication_date
+136,136,2026-08-18,,Students were offered free replacements,,Not mentioned,,1,article_18,inferred,publication_date

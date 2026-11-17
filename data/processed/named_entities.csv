@@ -1,0 +1,196 @@
+article_id,sentence_id,sentence,entity,entity_label
+article_01,1,"Continuous rainfall began across Riverton late on August 13, causing several streets in the eastern part of the city to flood by early Friday morning.",Riverton,GPE
+article_01,1,"Continuous rainfall began across Riverton late on August 13, causing several streets in the eastern part of the city to flood by early Friday morning.",August 13,DATE
+article_01,1,"Continuous rainfall began across Riverton late on August 13, causing several streets in the eastern part of the city to flood by early Friday morning.",early Friday,DATE
+article_01,1,"Continuous rainfall began across Riverton late on August 13, causing several streets in the eastern part of the city to flood by early Friday morning.",morning,TIME
+article_01,2,The city weather office recorded 118 millimetres of rain in twelve hours.,118,CARDINAL
+article_01,2,The city weather office recorded 118 millimetres of rain in twelve hours.,twelve hours,TIME
+article_01,3,Emergency services received their first major flooding calls at approximately 5:30 a.m. on August 14.,first,ORDINAL
+article_01,3,Emergency services received their first major flooding calls at approximately 5:30 a.m. on August 14.,approximately 5:30 a.m.,TIME
+article_01,3,Emergency services received their first major flooding calls at approximately 5:30 a.m. on August 14.,August 14,DATE
+article_01,4,"Water entered ground-floor homes in the Riverside neighbourhood, and traffic was diverted from the Old Bridge.",Riverside,PERSON
+article_01,4,"Water entered ground-floor homes in the Riverside neighbourhood, and traffic was diverted from the Old Bridge.",the Old Bridge,FAC
+article_01,5,The municipal corporation opened two temporary shelters at Central High School and the Riverside Community Hall.,two,CARDINAL
+article_01,5,The municipal corporation opened two temporary shelters at Central High School and the Riverside Community Hall.,Central High School,ORG
+article_01,5,The municipal corporation opened two temporary shelters at Central High School and the Riverside Community Hall.,the Riverside Community Hall,ORG
+article_01,6,Officials said that 46 residents had been moved to the shelters by 10 a.m.,46,CARDINAL
+article_01,6,Officials said that 46 residents had been moved to the shelters by 10 a.m.,10 a.m.,TIME
+article_01,7,The weather office warned that further rainfall was expected through Saturday.,Saturday,DATE
+article_02,1,"Heavy rainfall continued in Riverton on Friday, August 14, leading authorities to close all municipal schools for the day.",Riverton,GPE
+article_02,1,"Heavy rainfall continued in Riverton on Friday, August 14, leading authorities to close all municipal schools for the day.","Friday, August 14",DATE
+article_02,1,"Heavy rainfall continued in Riverton on Friday, August 14, leading authorities to close all municipal schools for the day.",the day,DATE
+article_02,2,The decision was announced at 7:15 a.m. after water levels in the Riverton River rose sharply overnight.,7:15 a.m.,TIME
+article_02,2,The decision was announced at 7:15 a.m. after water levels in the Riverton River rose sharply overnight.,Riverton River,LOC
+article_02,2,The decision was announced at 7:15 a.m. after water levels in the Riverton River rose sharply overnight.,overnight,TIME
+article_02,3,The Old Bridge was closed to vehicles at around 6 a.m. as a precaution.,around 6 a.m.,TIME
+article_02,4,"Police redirected traffic toward the North Bypass, while emergency teams helped residents leave low-lying homes in Riverside.",the North Bypass,FAC
+article_02,4,"Police redirected traffic toward the North Bypass, while emergency teams helped residents leave low-lying homes in Riverside.",Riverside,GPE
+article_02,5,The municipal corporation confirmed that temporary shelters had been set up at Central High School and Riverside Community Hall.,Central High School and Riverside Community Hall,ORG
+article_02,6,"By noon, approximately 60 people were staying at the two locations.",noon,TIME
+article_02,6,"By noon, approximately 60 people were staying at the two locations.",approximately 60,CARDINAL
+article_02,6,"By noon, approximately 60 people were staying at the two locations.",two,CARDINAL
+article_02,7,The district collector said that a review meeting would be held at 4 p.m. to assess the situation.,4 p.m.,TIME
+article_02,8,The weather office forecast more rain until Saturday evening.,Saturday,DATE
+article_02,8,The weather office forecast more rain until Saturday evening.,evening,TIME
+article_03,1,"Rainfall eased in Riverton on Saturday, August 15, but several neighbourhoods continued to deal with flooding caused by the previous day’s downpour.",Rainfall,PERSON
+article_03,1,"Rainfall eased in Riverton on Saturday, August 15, but several neighbourhoods continued to deal with flooding caused by the previous day’s downpour.",Riverton,GPE
+article_03,1,"Rainfall eased in Riverton on Saturday, August 15, but several neighbourhoods continued to deal with flooding caused by the previous day’s downpour.","Saturday, August 15",DATE
+article_03,1,"Rainfall eased in Riverton on Saturday, August 15, but several neighbourhoods continued to deal with flooding caused by the previous day’s downpour.",the previous day,DATE
+article_03,2,The weather office reported that the city had received 118 millimetres of rain in the twelve hours leading up to Friday morning.,118,CARDINAL
+article_03,2,The weather office reported that the city had received 118 millimetres of rain in the twelve hours leading up to Friday morning.,twelve hours,TIME
+article_03,2,The weather office reported that the city had received 118 millimetres of rain in the twelve hours leading up to Friday morning.,Friday,DATE
+article_03,2,The weather office reported that the city had received 118 millimetres of rain in the twelve hours leading up to Friday morning.,morning,TIME
+article_03,3,The municipal corporation said that 60 residents had used the temporary shelters at Central High School and Riverside Community Hall.,60,CARDINAL
+article_03,3,The municipal corporation said that 60 residents had used the temporary shelters at Central High School and Riverside Community Hall.,Central High School and Riverside Community Hall,ORG
+article_03,5,"Power supply, which had been suspended in parts of Riverside as a safety measure, was restored to most streets by 11 a.m.",11 a.m.,TIME
+article_03,7,The Old Bridge remained closed while engineers checked its structural safety.,The Old Bridge,ORG
+article_03,9,No deaths had been reported as of Saturday afternoon.,Saturday,DATE
+article_03,9,No deaths had been reported as of Saturday afternoon.,afternoon,TIME
+article_04,1,Floodwater entered ground-floor homes in the Riverside neighbourhood on Friday morning after continuous rainfall overnight.,Riverside,PERSON
+article_04,1,Floodwater entered ground-floor homes in the Riverside neighbourhood on Friday morning after continuous rainfall overnight.,Friday,DATE
+article_04,1,Floodwater entered ground-floor homes in the Riverside neighbourhood on Friday morning after continuous rainfall overnight.,morning,TIME
+article_04,3,The municipal corporation opened two temporary shelters at Central High School and the Riverside Community Hall.,two,CARDINAL
+article_04,3,The municipal corporation opened two temporary shelters at Central High School and the Riverside Community Hall.,Central High School,ORG
+article_04,3,The municipal corporation opened two temporary shelters at Central High School and the Riverside Community Hall.,the Riverside Community Hall,ORG
+article_04,4,"Officials said that 46 residents had been moved to the shelters by 10 a.m. Volunteers from nearby wards brought blankets, mats and cooked meals to both locations.",46,CARDINAL
+article_04,4,"Officials said that 46 residents had been moved to the shelters by 10 a.m. Volunteers from nearby wards brought blankets, mats and cooked meals to both locations.",10 a.m. Volunteers,TIME
+article_04,5,"By noon, approximately 60 people were staying at the two locations.",noon,TIME
+article_04,5,"By noon, approximately 60 people were staying at the two locations.",approximately 60,CARDINAL
+article_04,5,"By noon, approximately 60 people were staying at the two locations.",two,CARDINAL
+article_04,7,The weather office said more rain was likely through Saturday.,Saturday,DATE
+article_05,1,"The Old Bridge was closed to vehicles at around 6 a.m. as a precaution, traffic police confirmed.",around 6 a.m.,TIME
+article_05,2,Water in the Riverton River had risen sharply overnight and was close to the bridge deck.,the Riverton River,LOC
+article_05,2,Water in the Riverton River had risen sharply overnight and was close to the bridge deck.,overnight,TIME
+article_05,3,"Police redirected traffic toward the North Bypass, which saw heavy congestion through the morning.",the North Bypass,FAC
+article_05,3,"Police redirected traffic toward the North Bypass, which saw heavy congestion through the morning.",the morning,TIME
+article_05,4,Buses on three city routes were rerouted or cancelled.,three,CARDINAL
+article_05,5,Commuters were advised to avoid underpasses and roads near the river.,Commuters,ORG
+article_05,6,Several low-lying junctions in Riverside remained under water by noon.,Riverside,GPE
+article_05,6,Several low-lying junctions in Riverside remained under water by noon.,noon,TIME
+article_05,8,An update is expected after the review meeting on Friday afternoon.,Friday,DATE
+article_05,8,An update is expected after the review meeting on Friday afternoon.,afternoon,TIME
+article_06,1,"The city weather office recorded 118 millimetres of rain in twelve hours, the highest twelve-hour total in Riverton this monsoon.",118,CARDINAL
+article_06,1,"The city weather office recorded 118 millimetres of rain in twelve hours, the highest twelve-hour total in Riverton this monsoon.",twelve hours,TIME
+article_06,1,"The city weather office recorded 118 millimetres of rain in twelve hours, the highest twelve-hour total in Riverton this monsoon.",twelve-hour,TIME
+article_06,1,"The city weather office recorded 118 millimetres of rain in twelve hours, the highest twelve-hour total in Riverton this monsoon.",Riverton,GPE
+article_06,1,"The city weather office recorded 118 millimetres of rain in twelve hours, the highest twelve-hour total in Riverton this monsoon.",this monsoon,TIME
+article_06,2,Continuous rainfall began late on August 13 and continued into Friday morning.,August 13,DATE
+article_06,2,Continuous rainfall began late on August 13 and continued into Friday morning.,Friday,DATE
+article_06,2,Continuous rainfall began late on August 13 and continued into Friday morning.,morning,TIME
+article_06,3,The weather office warned that further rainfall was expected through Saturday.,Saturday,DATE
+article_06,7,"The Riverton River crossed its warning mark overnight, according to the irrigation department.",The Riverton River,ORG
+article_06,7,"The Riverton River crossed its warning mark overnight, according to the irrigation department.",overnight,TIME
+article_06,8,Officials said levels would be checked every two hours.,every two hours,TIME
+article_07,1,"Authorities closed all municipal schools in Riverton on Friday, August 14, because of the flooding.",Riverton,GPE
+article_07,1,"Authorities closed all municipal schools in Riverton on Friday, August 14, because of the flooding.","Friday, August 14",DATE
+article_07,2,The decision was announced at 7:15 a.m. after water levels in the Riverton River rose sharply overnight.,7:15 a.m.,TIME
+article_07,2,The decision was announced at 7:15 a.m. after water levels in the Riverton River rose sharply overnight.,Riverton River,LOC
+article_07,2,The decision was announced at 7:15 a.m. after water levels in the Riverton River rose sharply overnight.,overnight,TIME
+article_07,3,The district collector said that a review meeting would be held at 4 p.m. to assess the situation.,4 p.m.,TIME
+article_07,5,The municipal corporation confirmed that temporary shelters had been set up at Central High School and Riverside Community Hall.,Central High School and Riverside Community Hall,ORG
+article_07,8,The education department said exams scheduled for Friday would be rescheduled.,Friday,DATE
+article_08,1,The district collector held a review meeting on Friday at 4 p.m. to assess the flood situation in Riverton.,Friday,DATE
+article_08,1,The district collector held a review meeting on Friday at 4 p.m. to assess the flood situation in Riverton.,4 p.m.,TIME
+article_08,1,The district collector held a review meeting on Friday at 4 p.m. to assess the flood situation in Riverton.,Riverton,GPE
+article_08,4,It also ordered medical teams to be stationed at Central High School and Riverside Community Hall.,Central High School and Riverside Community Hall,ORG
+article_08,5,Officials said approximately 60 people had stayed at the two shelters on Friday.,approximately 60,CARDINAL
+article_08,5,Officials said approximately 60 people had stayed at the two shelters on Friday.,two,CARDINAL
+article_08,5,Officials said approximately 60 people had stayed at the two shelters on Friday.,Friday,DATE
+article_08,7,Engineers were told to inspect the Old Bridge before it is reopened.,the Old Bridge,ORG
+article_08,8,The weather office forecast more rain until Saturday evening.,Saturday,DATE
+article_08,8,The weather office forecast more rain until Saturday evening.,evening,TIME
+article_09,1,Water began to recede from the Riverside neighbourhood on Saturday morning as rainfall eased.,Riverside,PERSON
+article_09,1,Water began to recede from the Riverside neighbourhood on Saturday morning as rainfall eased.,Saturday,DATE
+article_09,1,Water began to recede from the Riverside neighbourhood on Saturday morning as rainfall eased.,morning,TIME
+article_09,3,The municipal corporation said that 60 residents had used the temporary shelters at Central High School and Riverside Community Hall.,60,CARDINAL
+article_09,3,The municipal corporation said that 60 residents had used the temporary shelters at Central High School and Riverside Community Hall.,Central High School and Riverside Community Hall,ORG
+article_09,4,"Most of them had returned home by Saturday evening, while those with unsafe homes stayed on.",Saturday,DATE
+article_09,4,"Most of them had returned home by Saturday evening, while those with unsafe homes stayed on.",evening,TIME
+article_09,5,"Power supply, which had been suspended in parts of Riverside as a safety measure, was restored to most streets by 11 a.m.",11 a.m.,TIME
+article_10,1,The Old Bridge remained closed while engineers checked its structural safety.,The Old Bridge,ORG
+article_10,2,A team from the public works department examined the pillars and approach roads on Saturday.,Saturday,DATE
+article_10,4,Officials expected a preliminary report by Sunday morning.,Sunday,DATE
+article_10,4,Officials expected a preliminary report by Sunday morning.,morning,TIME
+article_10,5,No deaths had been reported as of Saturday afternoon.,Saturday,DATE
+article_10,5,No deaths had been reported as of Saturday afternoon.,afternoon,TIME
+article_10,6,Two people were treated for minor injuries after slipping on flooded roads.,Two,CARDINAL
+article_11,1,"Municipal schools in Riverton, which were closed on Friday, are likely to reopen on Monday, the education department said.",Riverton,GPE
+article_11,1,"Municipal schools in Riverton, which were closed on Friday, are likely to reopen on Monday, the education department said.",Friday,DATE
+article_11,1,"Municipal schools in Riverton, which were closed on Friday, are likely to reopen on Monday, the education department said.",Monday,DATE
+article_11,1,"Municipal schools in Riverton, which were closed on Friday, are likely to reopen on Monday, the education department said.",the education department,ORG
+article_11,3,Central High School is being used as a temporary shelter and may need to be vacated before classes resume.,Central High School,ORG
+article_11,5,"Heavy rainfall continued in Riverton on Friday, August 14, leading authorities to close all municipal schools for the day.",Riverton,GPE
+article_11,5,"Heavy rainfall continued in Riverton on Friday, August 14, leading authorities to close all municipal schools for the day.","Friday, August 14",DATE
+article_11,5,"Heavy rainfall continued in Riverton on Friday, August 14, leading authorities to close all municipal schools for the day.",the day,DATE
+article_11,6,"Rainfall eased on Saturday, but several neighbourhoods continued to deal with flooding.",Saturday,DATE
+article_11,7,Parents were asked to wait for an official announcement on Sunday evening.,Sunday,DATE
+article_11,7,Parents were asked to wait for an official announcement on Sunday evening.,evening,TIME
+article_11,8,Teachers have been asked to inspect classrooms on Sunday.,Sunday,DATE
+article_12,1,The Old Bridge in Riverton was reopened to light vehicles on Sunday morning after engineers completed their inspection.,The Old Bridge in,ORG
+article_12,1,The Old Bridge in Riverton was reopened to light vehicles on Sunday morning after engineers completed their inspection.,Riverton,PERSON
+article_12,1,The Old Bridge in Riverton was reopened to light vehicles on Sunday morning after engineers completed their inspection.,Sunday morning,TIME
+article_12,4,Minor cracks in the approach road were repaired overnight.,overnight,TIME
+article_12,5,Police removed the diversion toward the North Bypass for cars and two-wheelers.,the North Bypass,FAC
+article_12,5,Police removed the diversion toward the North Bypass for cars and two-wheelers.,two,CARDINAL
+article_12,6,Traffic officers will monitor water levels in the Riverton River throughout the day.,Riverton River,LOC
+article_12,6,Traffic officers will monitor water levels in the Riverton River throughout the day.,the day,DATE
+article_12,7,Bus services on three routes resumed on Sunday afternoon using the North Bypass.,three,CARDINAL
+article_12,7,Bus services on three routes resumed on Sunday afternoon using the North Bypass.,Sunday,DATE
+article_12,7,Bus services on three routes resumed on Sunday afternoon using the North Bypass.,afternoon,TIME
+article_12,7,Bus services on three routes resumed on Sunday afternoon using the North Bypass.,the North Bypass,LOC
+article_13,1,The education department said that municipal schools in Riverton will now reopen on Tuesday instead of Monday.,Riverton,GPE
+article_13,1,The education department said that municipal schools in Riverton will now reopen on Tuesday instead of Monday.,Tuesday,DATE
+article_13,1,The education department said that municipal schools in Riverton will now reopen on Tuesday instead of Monday.,Monday,DATE
+article_13,2,Central High School is still being used as a temporary shelter.,Central High School,ORG
+article_13,3,Officials said that 28 residents whose homes remain unsafe are still staying at the shelter.,28,CARDINAL
+article_13,4,The remaining families have moved back to Riverside or to relatives' homes.,Riverside,PERSON
+article_13,5,The municipal corporation said it would shift those residents to the Riverside Community Hall by Monday evening.,the Riverside Community Hall,ORG
+article_13,5,The municipal corporation said it would shift those residents to the Riverside Community Hall by Monday evening.,Monday,DATE
+article_13,5,The municipal corporation said it would shift those residents to the Riverside Community Hall by Monday evening.,evening,TIME
+article_13,6,Classrooms at Central High School will then be cleaned and disinfected.,Central High School,ORG
+article_13,8,The department said extra classes would be arranged later in the month.,later in the month,DATE
+article_14,1,"Power supply was restored to the remaining streets of Riverside on Sunday, the electricity board said.",Sunday,DATE
+article_14,2,Repair crews had finished inspecting damaged electrical equipment late on Saturday.,Saturday,DATE
+article_14,3,"Power supply, which had been suspended in parts of Riverside as a safety measure, was restored to most streets by 11 a.m. on Saturday.",11 a.m.,TIME
+article_14,3,"Power supply, which had been suspended in parts of Riverside as a safety measure, was restored to most streets by 11 a.m. on Saturday.",Saturday,DATE
+article_14,5,Engineers replaced one transformer and four street-level junction boxes.,one,CARDINAL
+article_14,5,Engineers replaced one transformer and four street-level junction boxes.,four,CARDINAL
+article_14,6,The electricity board said it had deployed 12 repair crews across the eastern part of the city.,12,CARDINAL
+article_15,1,Health officials in Riverton warned residents of waterborne diseases after the flooding.,Riverton,GPE
+article_15,2,"No outbreak had been reported as of Sunday, but doctors expect cases of diarrhoea and fever to rise.",Sunday,DATE
+article_15,3,"Medical teams were stationed at Central High School and the Riverside Community Hall, as ordered at the Friday review meeting.",Central High School,ORG
+article_15,3,"Medical teams were stationed at Central High School and the Riverside Community Hall, as ordered at the Friday review meeting.",the Riverside Community Hall,ORG
+article_15,3,"Medical teams were stationed at Central High School and the Riverside Community Hall, as ordered at the Friday review meeting.",Friday,DATE
+article_15,7,Mosquito control teams will begin fogging in Riverside on Monday.,Mosquito,PERSON
+article_15,7,Mosquito control teams will begin fogging in Riverside on Monday.,Riverside,WORK_OF_ART
+article_15,7,Mosquito control teams will begin fogging in Riverside on Monday.,Monday,DATE
+article_16,1,An initial survey by the municipal corporation found that 312 homes were damaged in the Riverton floods.,312,CARDINAL
+article_16,1,An initial survey by the municipal corporation found that 312 homes were damaged in the Riverton floods.,Riverton,PERSON
+article_16,2,Dozens of shops in the eastern part of the city also reported stock losses.,Dozens,CARDINAL
+article_16,3,The corporation put the first estimate of damage at 40 crore rupees.,first,ORDINAL
+article_16,3,The corporation put the first estimate of damage at 40 crore rupees.,40,CARDINAL
+article_16,5,"Continuous rainfall began across Riverton late on August 13, causing several streets in the eastern part of the city to flood by early Friday morning.",Riverton,GPE
+article_16,5,"Continuous rainfall began across Riverton late on August 13, causing several streets in the eastern part of the city to flood by early Friday morning.",August 13,DATE
+article_16,5,"Continuous rainfall began across Riverton late on August 13, causing several streets in the eastern part of the city to flood by early Friday morning.",early Friday,DATE
+article_16,5,"Continuous rainfall began across Riverton late on August 13, causing several streets in the eastern part of the city to flood by early Friday morning.",morning,TIME
+article_16,6,The city weather office recorded 118 millimetres of rain in twelve hours.,118,CARDINAL
+article_16,6,The city weather office recorded 118 millimetres of rain in twelve hours.,twelve hours,TIME
+article_17,1,Relief work continued on Monday at the shelters set up after the Riverton floods.,Monday,DATE
+article_17,1,Relief work continued on Monday at the shelters set up after the Riverton floods.,Riverton,PERSON
+article_17,2,Officials said 28 residents were still staying at Central High School.,28,CARDINAL
+article_17,2,Officials said 28 residents were still staying at Central High School.,Central High School,ORG
+article_17,3,The municipal corporation moved these residents to the Riverside Community Hall on Monday evening so that the school can be cleaned.,the Riverside Community Hall,ORG
+article_17,3,The municipal corporation moved these residents to the Riverside Community Hall on Monday evening so that the school can be cleaned.,Monday,DATE
+article_17,3,The municipal corporation moved these residents to the Riverside Community Hall on Monday evening so that the school can be cleaned.,evening,TIME
+article_17,8,He said that compensation forms would be issued within the week.,the week,DATE
+article_18,1,"Municipal schools in Riverton reopened on Tuesday, August 18, after remaining closed since the floods.",Riverton,PERSON
+article_18,1,"Municipal schools in Riverton reopened on Tuesday, August 18, after remaining closed since the floods.","Tuesday, August 18",DATE
+article_18,2,Classes at Central High School resumed after the building was cleaned and disinfected.,Central High School,ORG
+article_18,3,"Attendance was low on the first day, with many students still dealing with damage at home.",Attendance,PERSON
+article_18,3,"Attendance was low on the first day, with many students still dealing with damage at home.",the first day,DATE
+article_18,4,Teachers said they would not hold tests this week.,this week,DATE
+article_18,5,"Heavy rainfall continued in Riverton on Friday, August 14, leading authorities to close all municipal schools for the day.",Riverton,GPE
+article_18,5,"Heavy rainfall continued in Riverton on Friday, August 14, leading authorities to close all municipal schools for the day.","Friday, August 14",DATE
+article_18,5,"Heavy rainfall continued in Riverton on Friday, August 14, leading authorities to close all municipal schools for the day.",the day,DATE
+article_18,6,The closure was extended over the weekend and into Monday as shelters remained in use.,the weekend,DATE
+article_18,6,The closure was extended over the weekend and into Monday as shelters remained in use.,Monday,DATE
